@@ -13,7 +13,7 @@ QRA is an assessment of the risk of variation of material attributes (starting m
 
 
 
-The Quality Target Product Profile(QTPP)
+The Quality Target Product Profile (QTPP)
 -----------------------------------------------
 | TPP - labeled use, safety and efficacy.
 | QTPP - quality characteristics to ensure safety and efficacy as promised in the label.
@@ -75,10 +75,44 @@ The Use of Routine Process Capability for the Determination of Process Parameter
 
  | In this paper, we are proposing a method for determining the criticality of a process parameter and whether it should be listed in the common technical document as critical. By using routine process control capability across a variety of operating conditions and equipment configurations, a risk-based approach is used to identify parameters that could have a potential of impacting the CQAs of the API. 
 
+Part 3: Enhanced Approaches to the Development of the Control Strategy and its Implementation in the Manufacturing Process Description.  *J Pharm Innov* **2019**, *14*, 1–14. `DOI: 10.1007/s12247-018-9340-2 <https://doi.org/10.1007/s12247-018-9340-2>`_
+
+ | Four different of risk levels belong to two criticality level.  
+ | The focus will address flexibility associated with the “Enhanced Approaches to the Development of the Control Strategy and Its Implementation in the Manufacturing Process Description.”
+
+Garciá-Munoz, Salvador; Reklaitis, Gintaras V.; Seymour, Christine *Comprehensive quality by design for pharmaceutical product development and manufacture* – Wiley (2017) page 177.
+
+ | The example of 6 simga of deprotection chemistry process parameters 
+
+Design Space (DS)
+--------------------------------------------------------
+DS - The multidimensional combination and interaction of input variables (e.g. material attributes) and process parameters that have been demonstrated to provide assurance of quality. ICH Q8 (R2)
+
+Case Studies in the Applicability of Drug Substance Design Spaces Developed on the Laboratory Scale to Commercial Manufacturing. *Org. Process Res. Dev.* **2015**, *19* (8), 925–934. `DOI: 10.1021/op500187u <https://doi.org/10.1021/op500187u>`_
+
+Development and Implementation of a Quality Control Strategy for an Atropisomer Impurity Grounded in a Risk-Based Probabilistic Design Space. *Org. Process Res. Dev.* **2019**, *23* (2), 211–219. `DOI: 10.1021/acs.oprd.8b00293 <https://doi.org/10.1021/acs.oprd.8b00293>`_
 
 
+Control Strategy
+--------------------------------------------------------
 
 
 References
------------------------------------------------
-Multivariate Analysis in the Selection of Greener Solvents for the Bromination of 2-Cyano-4’-methylbiphenyl. *Org. Process Res. Dev.* **2021**, *25*, (1), 68–74. `DOI: 10.1021/acs.oprd.0c00326 <https://doi.org/10.1021/acs.oprd.0c00326>`_
+-------------------------------------------------------
+Applying QbD Principles To Develop a Generic UHPLC Method Which Facilitates Continual Improvement and Innovation Throughout the Product Lifecycle for a Commercial API. *Org. Process Res. Dev.* **2013**, *17* (1), 87–96. `DOI: 10.1021/op300292a <https://dx.doi.org/10.1021/op300292a>`_
+
+Designation and Justification of API Starting Materials: Current Practices across Member Companies of the IQ Consortium. *Org. Process Res. Dev.* **2014**, *18* (5), 594–600. `DOI: 10.1021/op5000607 <https://dx.doi.org/10.1021/op5000607>`_
+
+Applications of Gage Reproducibility & Repeatability (GRR): Understanding and Quantifying the Effect of Variations from Different -Sources on a Robust Process Development. *Org. Process Res. Dev.* **2014**, *18* (12), 1614–1621. `DOI: 10.1021/op5002935 <https://dx.doi.org/10.1021/op5002935>`_
+
+Case Studies in the Development of Drug Substance Control Strategies. *Org. Process Res. Dev.* **2015**, *19* (8), 935–948. `DOI: 10.1021/acs.oprd.5b00146 <https://dx.doi.org/10.1021/acs.oprd.5b00146>`_
+
+Quality by Design in Action 1: Controlling Critical Quality Attributes of an Active Pharmaceutical Ingredient. *Org. Process Res. Dev.* **2015**, *19* (11), 1634–1644. `DOI: 10.1021/op500295a <https://dx.doi.org/10.1021/op500295a>`_
+
+Quality by Design in Action 2: Controlling Critical Material Attributes during the Synthesis of an Active Pharmaceutical Ingredient. *Org. Process Res. Dev.* **2015**, *19* (11), 1645–1654. `DOI: 10.1021/op500297g <https://dx.doi.org/10.1021/op500297g>`_
+
+Development and Optimization of Liquid Chromatography Analytical Methods by Using AQbD Principles: Overview and Recent Advances. *Org. Process Res. Dev.* **2019**, *23* (9), 1784–1802. `DOI: 10.1021/acs.oprd.9b00238 <https://dx.doi.org/10.1021/acs.oprd.9b00238>`_
+
+
+
+
