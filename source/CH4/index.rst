@@ -10,5 +10,5 @@ Structure Elucidation and Quantum Chemistry
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents. 4. Structure Elucidation and Quantaum Chemistry
+   :caption: Table of Contents. 4. Structure Elucidation and Quantum Chemistry
 
