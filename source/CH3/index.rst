@@ -15,5 +15,8 @@ Chemical Engineering
    :maxdepth: 2
    :caption: Table of Contents. 3. Chemical Engineering
 
-
-
+   Section6
+   Section7
+   Section8
+   Section9
+   

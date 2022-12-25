@@ -10,7 +10,7 @@ Pharmaceutical Industry
    :maxdepth: 2
    :caption: Table of Contents 1. Pharmaceutical Industry 
 
-   DoE
-   MVDA
-   QbD
-   Genotoxicity
+   Section1
+   Section2
+   Section3
+   Section5
