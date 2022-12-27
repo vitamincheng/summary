@@ -14,3 +14,6 @@ Pharmaceutical Industry
    Section2
    Section3
    Section5
+
+   Section18
+   Section21

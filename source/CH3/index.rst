@@ -6,10 +6,6 @@
 Chemical Engineering
 ===============================================================
 
-| Understructure...
-
-
-
 
 .. toctree::
    :maxdepth: 2
