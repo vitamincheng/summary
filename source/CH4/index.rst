@@ -5,10 +5,26 @@
 
 Structure Elucidation and Quantum Chemistry
 ===============================================================
-| Understructure...
+
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents. 4. Structure Elucidation and Quantum Chemistry
+
+
+   Section28
+   Section29
+   Section30
+
+
+
+
+
+
+
+
+
+
+
 
