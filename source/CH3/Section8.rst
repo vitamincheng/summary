@@ -63,7 +63,7 @@ Industrial Fluid Mixer Position and RPM Optimized for Tank Mixers `https://www.y
 Industrial Fluid Mixing Using Liquid Tank Baffles `https://www.youtube.com/watch?v=J96TEOjgscE <https://www.youtube.com/watch?v=J96TEOjgscE>`_
 
 
-Brawn Mixer - Correct vs Incorrect Mixing `https://www.youtube.com/watch?v=pRZPpdAAY1Q https://www.youtube.com/watch?v=pRZPpdAAY1Q>`_
+Brawn Mixer Correct vs Incorrect Mixing `https://www.youtube.com/watch?v=pRZPpdAAY1Q <https://www.youtube.com/watch?v=pRZPpdAAY1Q>`_
 
 Tackling  Difficult Mixing Problems Vortex. `https://www.aiche.org/sites/default/files/cep/20150835.pdf <https://www.aiche.org/sites/default/files/cep/20150835.pdf>`_
 
