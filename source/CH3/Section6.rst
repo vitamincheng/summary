@@ -35,7 +35,7 @@ Evaluation of Just-Suspended Speed Correlations in Lab-Scale Tanks with Varying 
 Scalable Reactor Design
 ----------------------------------------------------------
 
-Scalable Reactor Design for Pharmaceuticals and Fine Chemicals Production. 1:  Potential Scale-up Obstacles. `https://doi.org/10.1021/op050133a <https://doi.org/10.1021/op050133a>`_
+Scalable Reactor Design for Pharmaceuticals and Fine Chemicals Production. 1: Potential Scale-up Obstacles. `https://doi.org/10.1021/op050133a <https://doi.org/10.1021/op050133a>`_
 
  | *Chemical rate constants are scale independent, whereas physical parameters are not. This dichotomy is the primary cause of the failure to identify scale-up problems.*
  | *Most commonly interact with chemistry to cause a fall in performance on scale-up” to include processing time, heat transfer,  power  input,  gas  desorption,  phase  separation, mixing times, and mass transfer rates in two-phase systems.*

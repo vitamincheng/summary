@@ -1,4 +1,5 @@
-sphinx==7.1.2
-sphinx_copybutton==0.5.2
-sphinx_rtd_theme==3.0.2
+sphinx
+sphinx_copybutton
+sphinx_togglebutton
+sphinx_rtd_theme
 #sphinx_book_theme==1.0.1
