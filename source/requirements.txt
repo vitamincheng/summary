@@ -2,4 +2,4 @@ sphinx
 sphinx_copybutton
 sphinx_togglebutton
 sphinx_rtd_theme
-#sphinx_book_theme==1.0.1
+sphinx_book_theme
