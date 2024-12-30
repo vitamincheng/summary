@@ -1,6 +1,7 @@
 # Only for the summary
-## Summary of Vitamin’s labs documentation [An Internal Link](https://summary-of-vitamins.readthedocs.io/en/latest/)
-
+## Summary of Vitamin’s labs documentation  
+[ReadtheDocs Online Link](https://summary-of-vitamins.readthedocs.io/en/latest/)  
+[PDF Offline Link](https://summary-of-vitamins.readthedocs.io/_/downloads/en/latest/pdf/)  
 ## Table of Contents
 
 ### Pharmaceutical Industry
