@@ -6,11 +6,6 @@
 Welcome to the Summary of Vitamin's labs documentation!
 ===============================================================
 
-| 
-| The Summary focuses on the DoE and QbD data from 2000 to now (main Journal OPR&D) after 15 years pharmaceuticl industry.
-| Others information like structure elucidation from quantum mechanical method xtb or orca will be prepared in furture. 
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents

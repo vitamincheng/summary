@@ -15,16 +15,17 @@ Softwares
 Installation (censo)
 ---------------------------------------------------------------------
 
-| 4 different project (xtb, crest, censo and orca) are need to install your system and unfortunately the crest and censo are only executive under linux oerating system. 
+| 4 different projects (xtb, crest, censo and orca) are needed to install your system and, but unfortunately, crest and censo only run under on linux operating systems. 
 | 
-| OS version: UBUNTU 20.04 and 22.04.
+| OS version: UBUNTU 20.04, 22.04 and 24.04.
 | Xtb version: 6.4.1
 | Crest verison: 2.11.2 
 | Censo version: 1.2.0
 | Orca version:  6.0.2 or 6.0.3 (need OipenMPI 4.1.1)
 
 | Assigning PATH variables
-| Below is added code in my .bashrc file  
+| Below is added code in my .bashrc file 
+
 .. code-block:: bash
 
         #openmpi
@@ -42,6 +43,7 @@ Installation (censo)
         ulimit -s unlimited
 
 | If your can not executive your program, you can symbolic link or copy to your .local/bin/
+
 .. code-block:: bash
         
         cp anmr ~/.local/bin/
