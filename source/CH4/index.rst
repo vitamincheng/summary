@@ -13,6 +13,7 @@ Structure Elucidation and Quantum Chemistry
    :caption: Table of Contents. 4. Structure Elucidation and Quantum Chemistry
 
    Section28
+   Section33
    Section29
    Section30
    Section31
