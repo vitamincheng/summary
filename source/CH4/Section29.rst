@@ -12,9 +12,9 @@ Computation of NMR spectrum (Censo)
   :width: 600
 
 
-| mkdir 01.crest // Create a folder (Crest) 
-| save as crest.sh (below) in new folder (vim or ed)  
-| chmod +x crest.sh  
+| mkdir 01.crest // Create a folder (Crest)
+| save as crest.sh (below) in new folder (vim or ed)
+| chmod +x crest.sh
 | run ./crest.sh
 | Content of crest.sh
 

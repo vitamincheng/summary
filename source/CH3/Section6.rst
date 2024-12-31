@@ -4,7 +4,7 @@ Unit Operation of Process Chemsitry
 Concentration
 ----------------------------------------------
 
- | Picture 
+ | Picture
 
 Optimization of Solvent Chasing in API Manufacturing Process: Constant Volume Distillation. `10.1021/op800152n <https://dx.doi.org/10.1021/op800152n>`_ 
 

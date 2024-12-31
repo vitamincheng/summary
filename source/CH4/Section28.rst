@@ -15,16 +15,16 @@ Softwares
 Installation (censo)
 ---------------------------------------------------------------------
 
-| 4 different projects (xtb, crest, censo and orca) are needed to install your system and, but unfortunately, crest and censo only run under on linux operating systems. 
-| 
+| 4 different projects (xtb, crest, censo and orca) are needed to install your system and, but unfortunately, crest and censo only run under on linux operating systems.
+|
 | OS version: UBUNTU 20.04, 22.04 and 24.04.
 | Xtb version: 6.4.1
-| Crest verison: 2.11.2 
+| Crest verison: 2.11.2
 | Censo version: 1.2.0
 | Orca version:  6.0.2 or 6.0.3 (need OipenMPI 4.1.1)
 
 | Assigning PATH variables
-| Below is added code in my .bashrc file 
+| Below is added code in my .bashrc file
 
 .. code-block:: bash
 
@@ -53,14 +53,14 @@ Installation (censo)
         ln -s ~/anmr ~/.local/bin/
 
 
-This is my .censorc file setting (only for Hydrogen NMR and use revTPSS)      
-This program is fully automated computation of spin-spin NMR Spectra but sometimes the confermers can not converged to energy local minimum. The default of rthr, bthr and ethr are small and ewin is large, I write a bash to reduce the numbers of conformers. 
+This is my .censorc file setting (only for Hydrogen NMR and use revTPSS)
+This program is fully automated computation of spin-spin NMR Spectra but sometimes the confermers can not converged to energy local minimum. The default of rthr, bthr and ethr are small and ewin is large, I write a bash to reduce the numbers of conformers.
 
 
 .. code-block:: bash
 
  $CENSO global configuration file: .censorc
- $VERSION:1.2.0 
+ $VERSION:1.2.0
  
  ORCA: /home/vitamin/orca_5_0_2_linux_x86-64_shared_openmpi411
  ORCA version: 5.02
@@ -178,8 +178,8 @@ This program is fully automated computation of spin-spin NMR Spectra but sometim
 
 
 
-| This is modification of crest. It is enough to for computation of NMR spectrum. 
-| Save as cregen.sh filename in your ~/.local/bin/ and rum "chomod +x cregen.sh" to change mode to executive file. 
+| This is modification of crest. It is enough to for computation of NMR spectrum.
+| Save as cregen.sh filename in your ~/.local/bin/ and rum "chomod +x cregen.sh" to change mode to executive file.
 
 .. code-block:: bash
 
