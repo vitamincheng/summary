@@ -38,5 +38,5 @@ Methanol(MeOH)
 Ethyl Acetate  
 Ergocalciferol (Vitamin D2)  
 Cholecalciferol (Vitamin D3)  
-References (For Presentation - Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra)
-References (For Physics - Quantum Mechanics About NMR)🚡
+References (For Presentation - Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra)   
+References (For Physics - Quantum Mechanics About NMR)
