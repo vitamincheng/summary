@@ -24,6 +24,7 @@ Chiral Resolution and Racemization
 Crystallization and Organic Solvents  
 Green Chemistry and Process Mass Intensity  
 Structure Elucidation and Conformation Analysis  
+Machine Learing
 ### Chemical Engineering
 Unit Operation of Process Chemsitry  
 Computational Fluid Dynamics (CFD)  
@@ -33,7 +34,9 @@ Moisture of air is critical factor ??
 Dropwise operation is necessary for every reactions ??  
 ### Structure Elucidation and Quantum Chemistry  
 Softwares and Installation  
+Methanol(MeOH)
 Ethyl Acetate  
 Ergocalciferol (Vitamin D2)  
 Cholecalciferol (Vitamin D3)  
-References
+References (For Presentation - Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra)
+References (For Physics - Quantum Mechanics About NMR)🚡
