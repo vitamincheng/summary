@@ -12,6 +12,7 @@ Random Forest Algorithm
 
 Predicting reaction performance in C–N cross-coupling using machine learning *Science* **2018**, *360* (6385), 186-190. `DOI: 10.1126/science.aar516 <https://doi.org/10.1126/science.aar5169>`_
 
+ | Use R language
  | Extracted atomic, molecular, and vibrational descriptors for the components of a palladium-catalyzed Buchwald-Hartwig cross-coupling of aryl halides with 4-methylaniline in the presence of various potentially inhibitory additives. 
  | We showed that a random forest algorithm provides significantly improved predictive performance over linear regression analysis.
 

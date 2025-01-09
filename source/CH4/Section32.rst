@@ -1,5 +1,5 @@
-References
-==============================================================
+References (For Presentation - Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra)
+========================================================================================================
 
 
 1. S. Grimme, C. Bannwarth, S. Dohm, A. Hansen, J. Pisarek, P. Pracht, J. Seibert, and F. Neese, *Angew Chem., Int. Ed.* **2017,** *56*, 14763–14769. `DOI: 10.1002/anie.201708266 <https://doi.org/10.1002/anie.201708266>`_
@@ -9,7 +9,7 @@ References
 5. S. Grimme, A. Hansen, S. Ehlert, and J.-M. Mewes, *J. Chem. Phys.*  **2021**, *154*, 064103.  `DOI: 10.1063/5.0040021 <https://doi.org/10.1063/5.0040021>`_
 6. S. Spicher and S. Grimme *J. Chem. Theory Comput.* **2021**, *17*, 1701-1714.  `DOI: 10.1021/acs.jctc.0c01306 <https://doi.org/10.1021/acs.jctc.0c01306>`_
 7. M. T. de Oliveira, J. M. A. Alves, A. A. C. Braga, D. J. D. Wilson, and C. A. Barboza, *J. Chem. Theory Comput.* **2021**, *17*, 6876–6885.  `DOI: 10.1021/acs.jctc.1c00604 <https://doi.org/10.1021/acs.jctc.1c00604>`_
-8. Orca tutorials https://www.orcasoftware.de/tutorials_orca/prop/corren.html
+8. `Orca tutorials <https://www.orcasoftware.de/tutorials_orca/prop/corren.html>`_
 9. D. G. Liakos, M. Sparta, M. K Kesharwani, J. M L Martin, Frank Neese, *J Chem Theory Comput* **2015**, *14*, 1525-39.  `DOI: 10.1021/ct501129s <https://doi.org/10.1021/ct501129s>`_
 10. P. Pracht, F. Bohle and S. Grimme, *Phys. Chem. Chem. Phys.* **2020**, *22*, 7169-7192. `DOI: 10.1039/C9CP06869D <https://doi.org/10.1039/C9CP06869D>`_
 11. J. Tomasi, B. Mennucci, and R. Cammi, *Chem. Rev.* **2005** *105*, 2999–3094. `DOI: 10.1021/cr9904009 <https://doi.org/10.1021/cr9904009>`_
@@ -19,7 +19,7 @@ References
 15. H. Kruse, S. Grimme,  *J. Chem. Phys.* **2012**, *136*, 154101. `DOI: 10.1063/1.3700154 <http://dx.doi.org/10.1063/1.3700154>`_
 16. S. Nam, E. Cho, Eunji Sim, and Kieron Burke, *J. Phys. Chem. Lett.* **2012**, *12*, 2796-2804. `DOI: 10.1021/acs.jpclett.1c00426 <https://doi.org/10.1021/acs.jpclett.1c00426>`_  
 17. A. Ciogli,S. V. Kumar, M. Mancinelli, A. Mazzanti, S. Perumal, and C. Villani *Org. Biomol. Chem.* **2016**,  *14*, 11137-11147. `DOI: 10.1039/C6OB02145J <https://doi.org/10.1039/C6OB02145J>`_ 
-18.  NMR Spectroscopy Karplus Equation https://organicchemistrydata.org/hansreich/resources/nmr/?page=05-hmr-05-3j%2F#05-hmr-05-3j-karplus
+18. `NMR Spectroscopy Karplus Equation <https://organicchemistrydata.org/hansreich/resources/nmr/?page=05-hmr-05-3j%2F#05-hmr-05-3j-karplus>`_
 19. P. H. Willoughby, M. J. Jansma, T. R. Hoye, *Nat. Protoc.* **2014**, *9*, 643–660. `DOI: 10.1038/nprot.2014.042 <https://doi.org/10.1038/nprot.2014.042>`_
 20. M. Bursch, L. Kunze, A. M. Vibhute, A. Hansen, K. M. Sureshan, P. G. Jones, S. Grimme, D. B. Werz, *Chem. Eur. J.* **2021**, *27*, 4627−4639. `DOI: 10.1002/chem.202004525 <https://dx.doi.org/10.1002/chem.202004525>`_
 21. Dr. Tian Lu, Qinxue Chen *Chemistry—Methods* **2021**, *1*, 231–23. `DOI: 10.1002/cmtd.202100007 <https://doi.org/10.1002/cmtd.202100007>`_
