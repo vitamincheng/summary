@@ -113,8 +113,8 @@ Computation of NMR spectrum (Censo)
  H          2.0704989822        1.0149272740        1.3232389689
  H          3.2857258834        0.8965524789        0.0550180571
 
-| Create new folder (02.GFN2) and copy crest_conformers.xyz to new folder. Rename crest_conformers.xyz to traj.xyz 
-| Executive molculus and use settings.ini 
+| Create new folder (02.GFN2) and copy crest_conformers.xyz to new folder. Rename crest_conformers.xyz to traj.xyz
+| Executive molculus and use settings.ini
 | GFN2 under alpb CHCl3 solvent and charge (0) UHF (0)
 
 .. code-block:: bash

@@ -45,7 +45,7 @@ Drug Substance Starting Material Selection. *Pharm. Tech.* **2008**, 52-57. `htt
  | Provide minimal starting material information about the level and fate of impurities. Define and maintain tight specifications for starting material and drug substances to compensate for limited synthetic knowledge.
 
  | In contrast, the design space approach involves the following:
- | Select starting materials based on scientific understanding of the drug substance synthesis and available control mechanisms. Understand the source, formation, and fate of impurities. Understand how changes to the synthesis of the starting material may influence impurity profiles. 
+ | Select starting materials based on scientific understanding of the drug substance synthesis and available control mechanisms. Understand the source, formation, and fate of impurities. Understand how changes to the synthesis of the starting material may influence impurity profiles.
 
 Part 1: A Review and Perspective of the Regulatory Guidance to Support Designation and Justification of API Starting Material. *Org. Process Res. Dev.* **2014**, *18*, (5), 587–593. `DOI: 10.1021/op500059k <https://doi.org/10.1021/op500059k>`_
 
@@ -60,7 +60,7 @@ Development of a Quality Risk Based Tool for the Selection of Regulatory Startin
 Critical Process Parameters (CPPs)
 -----------------------------------------------------------
 
-CPP - A process parameter whose variability has an impact on a CQA and therefore should be monitored or controlled to ensure the process produces the desired quality. (ICH Q8) 
+CPP - A process parameter whose variability has an impact on a CQA and therefore should be monitored or controlled to ensure the process produces the desired quality. (ICH Q8)
 
 By definition, any process parameter that impacts a CQA is a CPP; that is, it is a significant risk to the API quality. Usually, all process parameters are assessed and classified as either critical or non‐critical for the quality of both APIs and the isolated intermediates.
 
@@ -73,16 +73,16 @@ Unit Operations Characterization Using Historical Manufacturing Performance. *In
 
 The Use of Routine Process Capability for the Determination of Process Parameter Criticality in Small-molecule API Synthesis. *J. Pharm. Innov.* **2008**, *3*, 105-112. `DOI: 10.1007/s12247-008-9028-0 <https://doi.org/10.1007/s12247-008-9028-0>`_
 
- | In this paper, we are proposing a method for determining the criticality of a process parameter and whether it should be listed in the common technical document as critical. By using routine process control capability across a variety of operating conditions and equipment configurations, a risk-based approach is used to identify parameters that could have a potential of impacting the CQAs of the API. 
+ | In this paper, we are proposing a method for determining the criticality of a process parameter and whether it should be listed in the common technical document as critical. By using routine process control capability across a variety of operating conditions and equipment configurations, a risk-based approach is used to identify parameters that could have a potential of impacting the CQAs of the API.
 
 Part 3: Enhanced Approaches to the Development of the Control Strategy and its Implementation in the Manufacturing Process Description.  *J Pharm Innov* **2019**, *14*, 1–14. `DOI: 10.1007/s12247-018-9340-2 <https://doi.org/10.1007/s12247-018-9340-2>`_
 
- | Four different of risk levels belong to two criticality level.  
+ | Four different of risk levels belong to two criticality level.
  | The focus will address flexibility associated with the “Enhanced Approaches to the Development of the Control Strategy and Its Implementation in the Manufacturing Process Description.”
 
 Garciá-Munoz, Salvador; Reklaitis, Gintaras V.; Seymour, Christine *Comprehensive quality by design for pharmaceutical product development and manufacture* – Wiley (2017) page 177.
 
- | The example of 6 simga of deprotection chemistry process parameters 
+ | The example of 6 simga of deprotection chemistry process parameters
 
 Design Space (DS)
 --------------------------------------------------------

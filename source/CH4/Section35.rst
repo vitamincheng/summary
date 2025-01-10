@@ -4,8 +4,11 @@ References (For Physics - Quantum Mechanics About NMR)
 Textbooks
 ----------------
 
-1. Malcolm Zevitt, *Spin Dynamics: Basics of Nuclear Magnetic Resonance* - Wiley (2008).
-2. K. L. Ivanor, P. K. Madhu, G. Rajalakshmi, *Two-Dimensional (2D) NMR Methods* - Wiley (2023).
+1. Malcolm Zevitt, *Spin Dynamics: Basics of Nuclear Magnetic Resonance* -
+   Wiley (2008).
+
+2. K. L. Ivanor, P. K. Madhu, G. Rajalakshmi, *Two-Dimensional (2D)
+   NMR Methods* - Wiley (2023).
 3. James Keeler, *Understanding NMR Spectroscopy* - Wiley (2010).
 
 

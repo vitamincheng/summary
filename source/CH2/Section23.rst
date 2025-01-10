@@ -11,13 +11,13 @@ Purification of Dirithromycin. Impurity Reduction and Polymorph Manipulation. *O
 
 A Practical Approach for Using Solubility to Design Cooling Crystallization. *Org. Process Res. Dev.* **2009**, *13* (6), 1315–1321.   `DOI: 10.1021/op9001438 <https://doi.org/10.1021/op9001438>`_
 
- | *Black’s rule states that solubility doubles every 20°C.* 
+ | *Black’s rule states that solubility doubles every 20°C.*
 
 The role of meso-mixing in anti-solvent crystallization processes. *Chem. Eng. Sci.* **2011**, *66* (12), 2523-2534. `DOI: 10.1016/j.ces.2011.02.042 <https://doi.org/10.1016/j.ces.2011.02.042>`_
 
 Impurity Occurrence and Removal in Crystalline Products from Process Reactions. *Org. Process Res. Dev.* **2017**, *21* (5), 689–704.  `DOI: 10.1021/acs.oprd.6b00403 <https://dx.doi.org/10.1021/acs.oprd.6b00403>`_
 
- | *The classes of behaviour observed are removal by washing, recrystallisation or reslurrying (Class 1), impurities not being removed by these operations (Class 2), and impurities which are removed in conjunction with a phase transformation (Class 3).* 
+ | *The classes of behaviour observed are removal by washing, recrystallisation or reslurrying (Class 1), impurities not being removed by these operations (Class 2), and impurities which are removed in conjunction with a phase transformation (Class 3).*
 
 Evaluation of Just-Suspended Speed Correlations in Lab-Scale Tanks with Varying Baffle Configurations. *Org. Process Res. Dev*. **2018**, *22* (11), 1481–1488.  `DOI: 10.1021/acs.oprd.8b00244 <https://doi.org/10.1021/acs.oprd.8b00244>`_
 
@@ -32,7 +32,7 @@ Effects of Scale, Equipment, and Operation on Agglomeration during a Reactive Cr
 
 
 
-A Structured Approach To Cope with Impurities during Industrial Crystallization Development. *Org. Process Res. Dev.* **2020**, *24* (8), 1443–1456.  `DOI: 10.1021/acs.oprd.0c00166 <https://dx.doi.org/10.1021/acs.oprd.0c00166>`_ 
+A Structured Approach To Cope with Impurities during Industrial Crystallization Development. *Org. Process Res. Dev.* **2020**, *24* (8), 1443–1456.  `DOI: 10.1021/acs.oprd.0c00166 <https://dx.doi.org/10.1021/acs.oprd.0c00166>`_
 
  | *Five principle methods of product contamination during crystallization; agglomeration, surface deposition, inclusions, co-crystal formation and solid solution formation.*
 
@@ -43,7 +43,7 @@ High-Throughput Classical Chiral Resolution Screening of Synthetic Intermediates
 
 Seeding Techniques and Optimization of Solution Crystallization Processes.  *Org. Process Res. Dev.* **2020**, *24* (10), 1839–1849. `DOI: 10.1021/acs.oprd.0c00151 <https://doi.org/10.1021/acs.oprd.0c00151>`_
 
-Digital Design of Batch Cooling Crystallization Processes: Computational Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in Agitated Crystallizers.  *Org. Process Res. Dev*. **2020**, *24* (11), 2565–2582. `DOI: 10.1021/acs.oprd.0c00240 <https://doi.org/10.1021/acs.oprd.0c00240>`_ 
+Digital Design of Batch Cooling Crystallization Processes: Computational Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in Agitated Crystallizers.  *Org. Process Res. Dev*. **2020**, *24* (11), 2565–2582. `DOI: 10.1021/acs.oprd.0c00240 <https://doi.org/10.1021/acs.oprd.0c00240>`_
 
 Continuous Crystallization Processes in Pharmaceutical Manufacturing: A Review.  *Org. Process Res. Dev.* **2021**, *25* (1), 16–42. `DOI: 10.1021/acs.oprd.0c00398 <https://doi.org/10.1021/acs.oprd.0c00398>`_
 
@@ -73,13 +73,13 @@ Solubility Behaviors and Correlations of Common Solvent–Antisolvent Systems.
 
 Simple Method (CHEM-SP) to Predict Solubility from 2-D Chemical Structures. *Org. Process Res. Dev.* **2021**, *25* (1), 75–81.   `DOI: 10.1021/acs.oprd.0c00404 <https://doi.org/10.1021/acs.oprd.0c00404>`_
 
-Trace Impurity of Organic Solvents 
+Trace Impurity of Organic Solvents
 ------------------------------------------------------------
 Peroxides in ethyl acetate. *Chemical & Engineering News* **2000** Vol. *78*, No. 51, page 2. `http://pubsapp.acs.org/cen/safety/20001218.html? <http://pubsapp.acs.org/cen/safety/20001218.html?>`_
 
  | *We have also observed amines being oxidized to N-oxides, and Baeyer-Villiger-like oxidations. Therefore, it seems most likely that the peroxide impurity is peracetic acid formed by autooxidation of ethanol (from hydrolysis) to acetaldehyde and then to peracetic acid.*
 
-Dichloromethane 1.Exposure Data – IARC Publications  
+Dichloromethane 1.Exposure Data – IARC Publications
 
  | *Purity, when reported, ranges from 99 to 99.99%. Acidity (as hydrochloric acid) may be up to 5 mg/kg. The maximum concentration of water in these grades of dichloromethane is 100 mg/kg.*
 
@@ -89,7 +89,7 @@ Chemical safety: peroxide formation in 2-propanol `https://cen.acs.org/articles/
 
 Reconsidering the Safety Hazards Associated with Peroxide Formation in 2-Propanol  *Org. Process Res. Dev.* **2022**, *26* (6), 1558–1561.   `DOI: 10.1021/acs.oprd.2c00112 <https://doi.org/10.1021/acs.oprd.2c00112>`_
 
-Oxidation of Drugs during Drug Product Development: Problems and Solutions *Pharmaceutics* **2022**, *14* (2), 325. `DOI: 10.3390/pharmaceutics14020325 <https://doi.org/10.3390/pharmaceutics14020325>`_ 
+Oxidation of Drugs during Drug Product Development: Problems and Solutions *Pharmaceutics* **2022**, *14* (2), 325. `DOI: 10.3390/pharmaceutics14020325 <https://doi.org/10.3390/pharmaceutics14020325>`_
 
 - Autoxidation (radical mediated)
 - Nucleophilic / electrophilic (peroxide mediated)
@@ -106,6 +106,5 @@ Reviews
 ---------------------------------------------------
 
 Industrial Perspectives of Pharmaceutical Crystallization. *Org. Process Res. Dev.* **2013**, *17* (3), 445–454.  `DOI: 10.1021/op3002323 <https://doi.org/10.1021/op3002323>`_
-       
 
 

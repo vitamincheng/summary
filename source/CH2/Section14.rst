@@ -7,7 +7,7 @@ Phase-Transfer Catalytic Reaction
 References
 -----------------------------------------------------
 
-Use of Diethoxymethane as a Solvent for Phase Transfer-Catalyzed O-Alkylation of Phenols. *Org. Process Res. Dev.* **2010**, *14* (3), 732–736.   `https://dx.doi.org/10.1021/op900324p <https://dx.doi.org/10.1021/op900324p>`_ 
+Use of Diethoxymethane as a Solvent for Phase Transfer-Catalyzed O-Alkylation of Phenols. *Org. Process Res. Dev.* **2010**, *14* (3), 732–736.   `https://dx.doi.org/10.1021/op900324p <https://dx.doi.org/10.1021/op900324p>`_
 
  | *DEM is a good solvent for these types of phase transfer-catalyzed reactions and can be considered as an alternative solvent for dichloromethane and toluene.*
 

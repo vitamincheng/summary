@@ -1,5 +1,5 @@
 Process Chemistry
-================================================
+========================================
 
 Textbooks
 ------------------------------------------------------
@@ -23,7 +23,7 @@ An Unexpected Incident with m-CPBA. *Org. Proc. Res. Dev.* **2004**, *8* (6), 10
 
 Technical Production of Aldehydes by Continuous Bleach Oxidation of Alcohols Catalyzed by 4-Hydroxy-TEMPO. *Org. Process Res. Dev.* **2005**, *9* (5), 577–582i. `DOI: 10.1021/op050040t <https://dx.doi.org/10.1021/op050040t>`_
 
- | *batch process of 4-Hydroxy-TEMPO Oxidation to aldehyde performed on lab scale is not suitable for the technical synthesis especially of activated‚-substituted aldehydes, this transformation can be performed continuously in a simple tube reactor.* 
+ | *batch process of 4-Hydroxy-TEMPO Oxidation to aldehyde performed on lab scale is not suitable for the technical synthesis especially of activated‚-substituted aldehydes, this transformation can be performed continuously in a simple tube reactor.*
 
 Oxidation of Primary Alcohols to Carboxylic Acids with Sodium Chlorite catalyzed by Tempo and Beach: 4-Methoxyphenylacetic Acid. *Org. Synth.* **2005**, *81*, 195. `DOI: 10.15227/orgsyn.081.0195 <http://www.orgsyn.org/demo.aspx?prep=v81p0195>`_
 
@@ -37,7 +37,7 @@ Solvent Applications of 2-Methyltetrahydrofuran in Organometallic and Biphasic R
 
 Optimization of Solvent Chasing in API Manufacturing Process: Constant Volume Distillation.rg. *Org.Process Res. Dev.* **2009**, *13* (1), 73–77. `DOI: 10.1021/op800152n <https://dx.doi.org/10.1021/op800152n>`_
 
-The Challenges of Developing an API Crystallization Process for a Complex Polymorphic and Highly Solvating System. Part I. *Org. Process Res. Dev.* **2009**, *13* (6), 1327–1337. `DOI: 10.1021/op9001559 <https://dx.doi.org/10.1021/op9001559>`_ 
+The Challenges of Developing an API Crystallization Process for a Complex Polymorphic and Highly Solvating System. Part I. *Org. Process Res. Dev.* **2009**, *13* (6), 1327–1337. `DOI: 10.1021/op9001559 <https://dx.doi.org/10.1021/op9001559>`_
 
 2010 - 2014
 -------------------------------------------------------------
@@ -53,7 +53,7 @@ Metal-Free One-Pot Oxidative Amination of Aromatic Aldehydes: Conversion of Benz
 
 Development of a Safe and Practical *N*-Oxidation Procedure Using *m*-CPBA in Acetic Acid. *Org. Process Res. Dev.* **2011**, *15* (2), 443–448. `DOI: 10.1021/op100280c <https://dx.doi.org/10.1021/op100280c>`_
 
-Understanding and Avoidance of Agglomeration During Drying Processes: A Case Study. *Org. Process Res. Dev.* **2013**, *17* (10), 1359–1366. `DOI: 10.1021/op4000972 <https://dx.doi.org/10.1021/op4000972>`_ 
+Understanding and Avoidance of Agglomeration During Drying Processes: A Case Study. *Org. Process Res. Dev.* **2013**, *17* (10), 1359–1366. `DOI: 10.1021/op4000972 <https://dx.doi.org/10.1021/op4000972>`_
 
 
 Simplified Preparation of Dimethyldioxirane (DMDO). *Org. Synth.* **2013**, *90*, 350-357. `DOI: 10.15227/orgsyn.090.0350 <http://www.orgsyn.org/demo.aspx?prep=v90p0350>`_
@@ -108,7 +108,7 @@ Bio- and Chemocatalysis for the Synthesis of Late Stage SAR-Enabling Intermediat
 
  | *Transformation from benzoic acid to alcohol by NaBH*\ :sub:`4` *BF*\ :sub:`3`\ *-Et*\ :sub:`2`\ *O in THF.*
 
-Function Transformations 
+Function Transformations
 ------------------------------------------------------
 
 **From sulfide to sulfoxide by oxidation**
@@ -129,30 +129,30 @@ Reference
 Survey of GMP Bulk Reactions Run in a Research Facility between 1985 and 2002. *Org. Process Res. Dev.* **2005**, *9* (3), 253–258. `DOI: 10.1021/op050021j <https://dx.doi.org/10.1021/op050021j>`_
 
 Large-Scale Oxidations in the Pharmaceutical Industry. *Chem. Rev.* **2006**, *106* (7), 2943–2989. `DOI: 10.1021/cr040679f <https://dx.doi.org/10.1021/cr040679f>`_
-       
+
 
 Ozonolysis Applications in Drug Synthesis. *&Chem. Rev.* **2006**, *106* (7), 2990–3001. `DOI: 10.1021/cr040682z <https://dx.doi.org/10.1021/cr040682z>`_
 
 PTC in OPRD: An Illustrative Overview. *Org. Process Res. Dev.* **2008**, *12* (4), 698–709. `DOI: 10.1021/op700262h <https://dx.doi.org/10.1021/op700262h>`_
-       
+
 
 Industrial Oxidations with Organocatalyst TEMPO and Its Derivatives. *Org. Process Res. Dev.* **2010**, *14* (1), 245–251. `DOI: 10.1021/op900059x <https://dx.doi.org/10.1021/op900059x>`_
 
 Large-Scale Carbonyl Reductions in the Pharmaceutical Industry. *Org. Process Res. Dev.* **2012**, *16* (6), 1156–1184. `DOI: 10.1021/op2003826 <https://dx.doi.org/10.1021/op2003826>`_
 
-Large-Scale Applications of Amide Coupling Reagents for the Synthesis of Pharmaceuticals. *Org. Process Res. Dev.* **2016**, *20* (2), 140–177. `DOI :10.1021/op500305s <https://dx.doi.org/10.1021/op500305s>`_      
+Large-Scale Applications of Amide Coupling Reagents for the Synthesis of Pharmaceuticals. *Org. Process Res. Dev.* **2016**, *20* (2), 140–177. `DOI :10.1021/op500305s <https://dx.doi.org/10.1021/op500305s>`_
 
 Impurity Occurrence and Removal in Crystalline Products from Process Reactions. *Org. Process Res. Dev.* **2017**, *21* (5), 689–704. `DOI: 10.1021/acs.oprd.6b00403 <https://dx.doi.org/10.1021/acs.oprd.6b00403>`_
 
-Sodium Hypochlorite Pentahydrate Crystals (NaOCl·5H\ :sub:`2`\ O): A Convenient and Environmentally Benign Oxidant for Organic Synthesis. *Org. Process Res. Dev.* **2017**, *21* (12), 1925–1937. `DOI: 10.1021/acs.oprd.7b00288 <https://dx.doi.org/10.1021/acs.oprd.7b00288>`_ 
-       
+Sodium Hypochlorite Pentahydrate Crystals (NaOCl·5H\ :sub:`2`\ O): A Convenient and Environmentally Benign Oxidant for Organic Synthesis. *Org. Process Res. Dev.* **2017**, *21* (12), 1925–1937. `DOI: 10.1021/acs.oprd.7b00288 <https://dx.doi.org/10.1021/acs.oprd.7b00288>`_
+
 
 General User Guide for Partitioning of Tetraalkylammonium and Tetraalkylphosphonium Salts: Impacts of Cation, Anion, and Solvent. *Org. Process Res. Dev.* **2020**, *24* (2), 235–241. `DOI: 10.1021/acs.oprd.9b00496 <https://dx.doi.org/10.1021/acs.oprd.9b00496>`_
 
  | *Salt selection is an important decision in the context of process development. The data provided herein support the partitioning of tetraalkylammonium and tetraalkylphosphonium salts are dramatically affected by the identity of the cation, anion, and solvent, with demonstrated correlations between partitioning,various parameters of the cation, anion, and solvent, and solubility.*
 
 Where Does the Fluorine Come From? A Review on the Challenges Associated with the Synthesis of Organofluorine Compounds. *Org. Process Res. Dev.* **2020**, *24* (4), 470–480. `DOI: 10.1021/acs.oprd.0c00030 <https://dx.doi.org/10.1021/acs.oprd.0c00030>`_
-       
+
 Large-Scale Amidations in Process Chemistry: Practical Considerations for Reagent Selection and Reaction Execution. *Org. Process Res. Dev.* **2022**, *26* (6), 1562–1689. `DOI: 10.1021/acs.oprd.2c00005 <https://doi.org/10.1021/acs.oprd.2c00005>`_
 
 Easy Removal of Triphenylphosphine Oxide from Reaction Mixtures by Precipitation with CaBr\ :sub:`2`\ . *Org. Process Res. Dev.* **2022**, *26* (6), 1845–1853. `DOI: 10.1021/acs.oprd.2c00104 <https://doi.org/10.1021/acs.oprd.2c00104>`_

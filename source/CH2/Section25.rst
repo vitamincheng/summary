@@ -25,7 +25,7 @@ Dynamic NMR and Dynamic HPLC
 
 Dynamic HPLC on chiral stationary phases: A powerful tool for the investigation of stereomutation processes. *Journal of Separation Science* **2006**, *29* (10), 1508-1516.   `DOI: 10.1002/jssc.200600129 <https://doi.org/10.1002/jssc.200600129>`_
 
-Atropisomerism in 3-arylthiazolidine-2-thiones. A combined dynamic NMR and dynamic HPLC study. *Org. Biomol. Chem.* **2016**, *14*, 11137-11147. `DOI: 10.1039/C6OB02145J <https://doi.org/10.1039/C6OB02145J>`_   
+Atropisomerism in 3-arylthiazolidine-2-thiones. A combined dynamic NMR and dynamic HPLC study. *Org. Biomol. Chem.* **2016**, *14*, 11137-11147. `DOI: 10.1039/C6OB02145J <https://doi.org/10.1039/C6OB02145J>`_
 
 Rotamers or Diastereomers ??
 --------------------------------------------------------------

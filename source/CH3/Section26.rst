@@ -3,13 +3,13 @@ Moisture of air is critical factor ??
 **Precondition:**
 
  | To a solution of 2L round bottom flask is added specified solute and solvent and allow approximately 1L of remaining air.
- | solvent KF = 0.02 %  
+ | solvent KF = 0.02 %
  | solid KF = 1.0 %
  | solid MW = 100 (g/mol)
 
 
 
-Example 1 : dilution liquid (50V solvent) 
+Example 1 : dilution liquid (50V solvent)
 -----------------------------------------------------
  | 20 g solid is dissolved in 50V 1L solvent
 
@@ -28,7 +28,7 @@ Example 1 : dilution liquid (50V solvent)
 
  | *Molecule percentage (mole %) to solid equivalent*
  |  20 g solid = 20 g / (100g/mol) = 0.2 mole of solid
- |  16.9 mg weight of water in air    = 0.00093 mole of water in air 
+ |  16.9 mg weight of water in air    = 0.00093 mole of water in air
  |  0.2 g weight of water in solvnet  = 0.011 mole of water in solvent
  |  0.2 g weight of water in solid    = 0.011 mole of water in solid
  |  0.00093 mole of water in air   / 0.2 mole of solid = 0.47 % (mole %)
@@ -46,7 +46,7 @@ Example 1 : dilution liquid (50V solvent)
 +------+------------------------------+-------+-------+---------------+
 
 
-Example 2 : Concentrated liquid (10V solvent) 
+Example 2 : Concentrated liquid (10V solvent)
 -----------------------------------------------------
  | 100 g solid is dissolved in 10V 1L solvent
 
@@ -65,7 +65,7 @@ Example 2 : Concentrated liquid (10V solvent)
 
  | *Molecule percentage (%) to solid equivalent*
  |  100 g solid = 100 / (100 g/mol) = 1.0 mole of solid
- |  16.9 mg weight of water in air    = 0.00093 mole of water in air 
+ |  16.9 mg weight of water in air    = 0.00093 mole of water in air
  |  0.2 g weight of water in solvnet  = 0.011 mole of water in solvent
  |  1.0 g weight of water in solid    = 0.055 mole of water in solid
  |  0.00093 mole of water in air   / 1.0 mole of solid =  0.09 % (mole %)
@@ -85,7 +85,7 @@ Example 2 : Concentrated liquid (10V solvent)
 
 
 
-Example 3 : General Condition (10V solvent) 
+Example 3 : General Condition (10V solvent)
 -----------------------------------------------------
  | 100 g solid is dissolved in 10V 1L solvent
 
@@ -104,7 +104,7 @@ Example 3 : General Condition (10V solvent)
 
  | *Molecule percentage (%) to solid equivalent*
  |  100 g solid = 100 / (100 g/mol) = 1.0 mole of solid
- |  16.9 mg weight of water in air    = 0.00093 mole of water in air 
+ |  16.9 mg weight of water in air    = 0.00093 mole of water in air
  |  0.5 g weight of water in solvnet  = 0.028 mole of water in solvent
  |  0.4 g weight of water in solid    = 0.022 mole of water in solid
  |  0.00093 mole of water in air   / 1.0 mole of solid =  0.09 % (mole %)
@@ -130,7 +130,7 @@ Example 3 : General Condition (10V solvent)
 Conclusion
 ------------------------------------------------------------------
 
- | The moisture of air in the flask is filled up to 100% and the weight percentage of moisture is range from 4.0 to 1.4% in all the system. 95% ~ 98% of water comes from residual water of solvents and solids. 
+ | The moisture of air in the flask is filled up to 100% and the weight percentage of moisture is range from 4.0 to 1.4% in all the system. 95% ~ 98% of water comes from residual water of solvents and solids.
  | Above the 3 examples we knew that the moisture in air is not critical factor and we necessary to concern the water content of solvents and solids in first.
 
 

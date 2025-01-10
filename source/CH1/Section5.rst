@@ -10,13 +10,13 @@ Genotoxicity
 
 Control of Genotoxic Impurities in Active Pharmaceutical Ingredients: A Review and Perspective. *Org. Process Res. Dev.* **2010**, *14* (4), 946–959. `DOI: 10.1021/op900341a <https://dx.doi.org/10.1021/op900341a>`_
 
-Genotoxic Impurities: From Structural Alerts to Qualification. *Org. Process Res. Dev.* **2010**, *14* (4), 960–976. `DOI: 10.1021/op100118e <https://dx.doi.org/10.1021/op100118e>`_ 
+Genotoxic Impurities: From Structural Alerts to Qualification. *Org. Process Res. Dev.* **2010**, *14* (4), 960–976. `DOI: 10.1021/op100118e <https://dx.doi.org/10.1021/op100118e>`_
 
  | *A review of representative compounds from several classes of structurally alerting substances (epoxides, hydrazines, aromatic amines, halides and aldehydes) provides examples of different types of qualification strategies Overall, it seems prudent to obtain maximum “leverage”from toxicological approaches, which are likely to be relatively low cost, before making any significant process-related changes to an active pharmaceutical ingredient (API) synthesis.*
 
 A Systematic Method Development Strategy for Determination of Pharmaceutical Genotoxic Impurities. *Org. Process Res. Dev.* **2010**, *14* (4), 977–985. `DOI: 10.1021/op100089p <https://dx.doi.org/10.1021/op100089p>`_
 
-Risk Assessment of Genotoxic Impurities in Marketed Compounds Administered over a Short-Term Duration: Applications to Oncology Products and Implications for Impurity Control Limits. *Org. Process Res. Dev.* **2010**, *14* (4), 986–992. `DOI: 10.1021/op1000226 <https://dx.doi.org/10.1021/op1000226>`_ 
+Risk Assessment of Genotoxic Impurities in Marketed Compounds Administered over a Short-Term Duration: Applications to Oncology Products and Implications for Impurity Control Limits. *Org. Process Res. Dev.* **2010**, *14* (4), 986–992. `DOI: 10.1021/op1000226 <https://dx.doi.org/10.1021/op1000226>`_
 
 Application of Quality by Design Principles to Support Development of a Control Strategy for the Control of Genotoxic Impurities in the Manufacturing Process of a Drug Substance. *Org. Process Res. Dev.* **2010**, *14* (4), 993–998. `DOI: 10.1021/op900242x <https://dx.doi.org/10.1021/op900242x>`_
 
@@ -28,9 +28,9 @@ Removal of Electrophilic Potential Genotoxic Impurities Using Nucleophilic React
 
 Investigation into the Formation of the Genotoxic Impurity Ethyl Besylate in the Final Step Manufacturing Process of UK-369,003-26, a Novel PDE5 Inhibitor. *Org. Process Res. Dev.* **2010**, *14* (4), 1027–1031. `DOI: 10.1021/op100141g <https://dx.doi.org/10.1021/op100141g>`_
 
-Risk Assessment of Potentially Genotoxic Impurities within the Framework of Quality by Design. *Org. Process Res. Dev.* **2010**, *14* (4), 1032–1036. `DOI: 10.1021/op900338g <https://dx.doi.org/10.1021/op900338g>`_ 
+Risk Assessment of Potentially Genotoxic Impurities within the Framework of Quality by Design. *Org. Process Res. Dev.* **2010**, *14* (4), 1032–1036. `DOI: 10.1021/op900338g <https://dx.doi.org/10.1021/op900338g>`_
 
- | *Observed Impurity: Impurity detected in isolated batches of starting material, Intermediate or API.* 
+ | *Observed Impurity: Impurity detected in isolated batches of starting material, Intermediate or API.*
  | *Potential Impurity:Seen During Process, but not detected in starting material, Intermediate or API.*
 
 Understanding and Control of Dimethyl Sulfate in a Manufacturing Process: Kinetic Modeling of a Fischer Esterification Catalyzed by H\ :sub:`2`\ SO\ :sub:`4`\ . *Org. Process Res. Dev.* **2012**, *16* (2), 232–239. `DOI: 10.1021/op200323j <https://doi.org/10.1021/op200323j>`_
@@ -44,14 +44,14 @@ Potentially Mutagenic Impurities (PMIs): Optimizing Toxicological and Analytical
 Is Avoidance of Genotoxic Intermediates/Impurities Tenable for Complex, Multistep Syntheses? *Org. Process Res. Dev.* **2015**, *19* (11), 1437–1446. `DOI: 10.1021/op500346q <https://dx.doi.org/10.1021/op500346q>`_
 
 Assessing the Risk of Formation of Potential Genotoxic Degradation Products in a Small-Molecule Kinase Inhibitor Drug Substance and Drug Product. *Org. Process Res. Dev.* **2015**, *19* (11), 1458–1464. `DOI: 10.1021/acs.oprd.5b00112 <https://dx.doi.org/10.1021/acs.oprd.5b00112>`_
-       
+
 Mutagenic Alkyl-Sulfonate Impurities in Sulfonic Acid Salts: Reviewing the Evidence and Challenging Regulatory Perceptions. *Org. Process Res. Dev.* **2015**, *19* (11), 1465–1485. `DOI: 10.1021/op500397h <https://dx.doi.org/10.1021/op500397h>`_
-       
-Mutagenic Impurities: Precompetitive/Competitive Collaborative and Data Sharing Initiatives. *Org. Process Res. Dev.* **2015**, *19* (11), 1486–1494. `DOI: 10.1021/acs.oprd.5b00128 <https://dx.doi.org/10.1021/acs.oprd.5b00128>`_ 
-       
+
+Mutagenic Impurities: Precompetitive/Competitive Collaborative and Data Sharing Initiatives. *Org. Process Res. Dev.* **2015**, *19* (11), 1486–1494. `DOI: 10.1021/acs.oprd.5b00128 <https://dx.doi.org/10.1021/acs.oprd.5b00128>`_
+
 Do Carboxylic/Sulfonic Acid Halides Really Present a Mutagenic and Carcinogenic Risk as Impurities in Final Drug Products? *Org. Process Res. Dev.* **2015**, *19* (11), 1495–1506. `DOI: 10.1021/acs.oprd.5b00106 <https://dx.doi.org/10.1021/acs.oprd.5b00106>`_
 
- | We would therefore recommend avoiding DMSO as solvent for mutagenicity tests with acyl/sulfonylhalides due to the potential for false positive results arising from DMSO reaction products, which are not relevant in aqueous, physiological conditions. 
+ | We would therefore recommend avoiding DMSO as solvent for mutagenicity tests with acyl/sulfonylhalides due to the potential for false positive results arising from DMSO reaction products, which are not relevant in aqueous, physiological conditions.
 
 A Kinetics-Based Approach for the Assignment of Reactivity Purge Factors. *Org. Process Res. Dev.* **2015**, *19* (11), 1517–1523. `DOI: 10.1021/acs.oprd.5b00257 <https://dx.doi.org/10.1021/acs.oprd.5b00257>`_
 
@@ -73,7 +73,7 @@ Mutagenic Impurities in 1-Hydroxybenzotriazole (HOBt). *Org. Process Res. Dev.* 
  | *Process optimization of an amidation reaction employing HOBt as a reagent uncovered a hydrazide impurity associated with the quality and quantity of HOBt used in the reaction.*
  | *Follow-up studies suggested that commercial HOBt could be contaminated with small but variable amounts of hydrazine. Development of a single analytical method able to quantitate both hydrazine and 1-chloro-2-nitrobenzene (two putative precursors) in HOBt allowed us to determine that hydrazine.*
 
-Development of a Scalable Process for the PPAR-α Agonist GW641597X Incorporating Baeyer–Villiger Chemistry and Retrospective ICH M7 Assessment. *Org. Process Res. Dev.* **2020**, *24* (3), 371–386. `DOI: 10.1021/acs.oprd.9b00385 <https://dx.doi.org/10.1021/acs.oprd.9b00385>`_ 
+Development of a Scalable Process for the PPAR-α Agonist GW641597X Incorporating Baeyer–Villiger Chemistry and Retrospective ICH M7 Assessment. *Org. Process Res. Dev.* **2020**, *24* (3), 371–386. `DOI: 10.1021/acs.oprd.9b00385 <https://dx.doi.org/10.1021/acs.oprd.9b00385>`_
 
  | *In oxidative Baeyer−Villiger reaction sodium perborate in acetic acid as a safer alternative to m-chloroperoxybenzoic acid.*
 
@@ -107,7 +107,7 @@ Removal of Heavy Metals from Organic Reaction Mixtures: Preparation and Applicat
 Statistical DoE Approach to the Removal of Palladium from Active Pharmaceutical Ingredients (APIs) by Functionalized Silica Adsorbents. *Org. Process Res. Dev.* **2014**, *18* (5), 626–635. `DOI: 10.1021/op5000336 <https://dx.doi.org/10.1021/op5000336>`_
 
  | Type: removal of Palladium
- | Design: 
+ | Design:
  | Factor: (1) temperature (30 to 90oC) (2) molar equivalent of scavenger (0.6 to 3.0 Eq) (3) contact time between scavenger and solution (20 to 180 min) (4) concentration of Pd in the product solution (100 to 500 mg/kg)
  | Responses measured: (1) residual Pd concentration (mg/kg).
 
@@ -128,7 +128,7 @@ Scalable Methods for the Removal of Ruthenium Impurities from Metathesis Reactio
 
 Development of a Robust Synthesis of Dactolisib on a Commercial Manufacturing Scale. *Org. Process Res. Dev.* **2019**, *23* (9), 1908–1917. `DOI: 10.1021/acs.oprd.9b00221 <https://dx.doi.org/10.1021/acs.oprd.9b00221>`_
 
- | *Smopex-234 and charcoal were added, and the mixture was stirred at 90°C for 1 h. Then, charcoal and Smopex-234 were removed via filtration, and charcoal and Smopex-234 were added again to the filtrate; the mixture was stirred for 1 h at 90°C, and the solids were filtered off. The filtrate was evaporated to a volume of approximately 5−5.5-fold versus the theoretical yield. The purified product was precipitated by the addition of 16.4 volumes of deionized H*\ :sub:`2`\ *O.* 
+ | *Smopex-234 and charcoal were added, and the mixture was stirred at 90°C for 1 h. Then, charcoal and Smopex-234 were removed via filtration, and charcoal and Smopex-234 were added again to the filtrate; the mixture was stirred for 1 h at 90°C, and the solids were filtered off. The filtrate was evaporated to a volume of approximately 5−5.5-fold versus the theoretical yield. The purified product was precipitated by the addition of 16.4 volumes of deionized H*\ :sub:`2`\ *O.*
 
 Carry-Over
 ----------------------------------------------
@@ -150,21 +150,8 @@ ICH M7
 
 | 9.1. Clinical trial application
 | For Phase 1 studies of 14 days or less a description of efforts to mitigate risks of mutagenic impurities focused on Class 1, and Class 2 impurities and those in the cohort of concern as outlined in Section 7 should be included. **For Phase 1 clinical trials greater than 14 days and for Phase 2a clinical trials additionally Class 3 impurities that require analytical controls should be included.**
-| **For Phase 2b and Phase 3 clinical development trials, a list of the impurities assessed by (Q)SAR should be included, and any Class 1, 2 or 3 actual and potential impurities should be described along with plans for control. The in silico(Q)SAR systems used to perform the assessments should be described. The results of bacterial mutagenicity tests of actual impurities should be reported.** 
+| **For Phase 2b and Phase 3 clinical development trials, a list of the impurities assessed by (Q)SAR should be included, and any Class 1, 2 or 3 actual and potential impurities should be described along with plans for control. The in silico(Q)SAR systems used to perform the assessments should be described. The results of bacterial mutagenicity tests of actual impurities should be reported.**
 
 
 | ICH M7: Assessment and Control of Mutagenic Impurities: M7 Implementation Timeline `https://pqri.org/wp-content/uploads/2015/11/Miller.pdf <https://pqri.org/wp-content/uploads/2015/11/Miller.pdf>`_
-
-
-
-
-
-
-
-
-
-
-
-
-
 

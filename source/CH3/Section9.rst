@@ -22,10 +22,10 @@ Turbulent micromixing in chemical reactors — a review. `https://doi.org/10.101
 
 Mixing and the Selectivity of Chemical Reactions. `https://doi.org/10.1021/op020074q <https://doi.org/10.1021/op020074q>`_
 
- | This review offers an introduction to understanding how mixing influences those single-phase and two-phase reactions which are sufficiently fast that mixing cannot fully homogenize their reactants. It includes theoretical principles, typical experimental results, worked examples, and literature references for further study.   
- | Micromixing control -  
- | Mesomixing control  - time constant to be held constant - difficulty - It was shown that the best way is to increase the number of feed points in the large vessel.
- | Macromixing cnotrol  
+ | This review offers an introduction to understanding how mixing influences those single-phase and two-phase reactions which are sufficiently fast that mixing cannot fully homogenize their reactants. It includes theoretical principles, typical experimental results, worked examples, and literature references for further study.
+ | Micromixing control
+ | Mesomixing control - time constant to be held constant - difficulty - It was shown that the best way is to increase the number of feed points in the large vessel.
+ | Macromixing cnotrol
 
 
 

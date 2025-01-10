@@ -6,9 +6,9 @@ Concentration
 
  | Picture
 
-Optimization of Solvent Chasing in API Manufacturing Process: Constant Volume Distillation. `10.1021/op800152n <https://dx.doi.org/10.1021/op800152n>`_ 
+Optimization of Solvent Chasing in API Manufacturing Process: Constant Volume Distillation. `10.1021/op800152n <https://dx.doi.org/10.1021/op800152n>`_
 
- | The constant volume mode can be more efficient as the chasing solvent acts as an effective displace by keeping concentrations of the solvent being displaced at higher levels.  
+ | The constant volume mode can be more efficient as the chasing solvent acts as an effective displace by keeping concentrations of the solvent being displaced at higher levels.
 
 
 Filtration
@@ -19,7 +19,7 @@ Filtration
 Mode of Reagent Addition: Control of Impurity Formation
 ------------------------------------------------------------------
 
- | Wenyi Zhao, *Handbook for chemical process research and development* - CRC Press (2017) chapter 1. 
+ | Wenyi Zhao, *Handbook for chemical process research and development* - CRC Press (2017) chapter 1.
 
 - Direction Addition
 - Reverse Addition

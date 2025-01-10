@@ -1,4 +1,4 @@
-Antibody-drug conjugates (ADC) 
+Antibody-drug conjugates (ADC)
 ================================================================
 
 Textbook
@@ -32,12 +32,12 @@ The Development and Scale-Up of an Antibody Drug Conjugate Tubulysin Payload. `h
 Process Development and Structural Characterization of an Anti-Notch 3 Antibody–Drug Conjugate. `https://dx.doi.org/10.1021/acs.oprd.7b00337 <https://dx.doi.org/10.1021/acs.oprd.7b00337>`_
 
  | Type: Conjugate
- | Design: 
+ | Design:
  | Factor: (1) antibody concentration on the conjugation mixture (3.8 to 29.6 mg/mL) (2) concentration of DMSO in the conjugation mixture (5 to 25% v/v) (3) temperature of the TCEP reduction step (5 to 40\ :sup:`o`\ C)
   | Responses measured: (1) aggregates (%) (2) HIC assay
 
 Scale-up Synthesis of Tesirine. `https://doi.org/10.1021/acs.oprd.8b00205 <https://doi.org/10.1021/acs.oprd.8b00205>`_
-       
+
 Gram-Scale Antibody–Drug Conjugate Synthesis by Site-Specific Chemical Conjugation: AJICAP First Generation. `https://dx.doi.org/10.1021/acs.oprd.9b00316 <https://dx.doi.org/10.1021/acs.oprd.9b00316>`_
 
 Complexation of Polyethyleneglycol Containing Small Molecules with Magnesium Chloride as a Purification and Isolation Strategy. `https://doi.org/10.1021/acs.oprd.1c00174 <https://doi.org/10.1021/acs.oprd.1c00174>`_
