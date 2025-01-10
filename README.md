@@ -1,5 +1,5 @@
 # Only for the summary
-## Summary of Vitamin’s labs documentation  
+## Summary of Vitamin Cheng’s documentation  
 [ReadtheDocs Online Link](https://summary-of-vitamins.readthedocs.io/en/latest/)  
 [PDF Offline Link](https://summary-of-vitamins.readthedocs.io/_/downloads/en/latest/pdf/)  
 ## Table of Contents
