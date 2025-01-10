@@ -20,6 +20,7 @@ Mode of Reagent Addition: Control of Impurity Formation
 ------------------------------------------------------------------
 
  | Wenyi Zhao, *Handbook for chemical process research and development* - CRC Press (2017) chapter 1. 
+
 - Direction Addition
 - Reverse Addition
 - Other Addition Modes (Sequential Addition, Portionwise Addition, Slow Release of Starting Material/Reagent, Alternate Addition and Concurrent Addition)

@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "the Summary of Vitamin's Labs"
-copyright = '2022, Wen-Cheng Cheng'
+project = "the Summary of Vitamin Cheng's Documentation"
+copyright = '2025, Wen-Cheng Cheng'
 author = 'Wen-Cheng Cheng'
-release = '0.01'
+release = '0.02'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
