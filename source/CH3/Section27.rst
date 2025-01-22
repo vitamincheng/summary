@@ -40,7 +40,7 @@ Dropwise operation is necessary for every reactions ??
 | **Screening experiments** [1]
 | Sequence showing the minimum experiments which must be carried out (Figure 23). Stirrer speed, feed time, feed point position, number of feed points and viscossity of solution are used to identify the type of mixing.
 
-| **Micro-mixing** [8]
+| **Micro-mixing** [7]
 | For example, to preserve constant reaction selectivity on scale-up for reactions exhibiting micromixing control, Bourne shows that Eqs. 1 and 2 are applicable for a competitive reaction sequence when able to maintain geometric similarity and constant P/V.
 
 .. image:: micro-mixing.jpg
@@ -57,19 +57,15 @@ Dropwise operation is necessary for every reactions ??
 | To dissolve the reagents in a solvent and quickly add them to the area near the impeller is first choice.
 | Acetyl anhydride is preferred over acetic chloride because the relationship between reaction time and blend time.
 
-
-
-
 References
 ----------------------------------------------
-
-1. J. R. Bourne., *Org. Process Res. Dev.* **7**, 471−508 (2003).
-2. R. A. Ghotli, A. A. A. Raman, S. Ibrahim and S. Baroutian *Chemical Engineering Communications* **200** (5), 595-627, (2013).
+1. Mixing and the Selectivity of Chemical Reactions *Org. Process Res. Dev.* **2003**, *7* (4), 471-508. `DOI: 10.1021/op020074q <https://doi.org/10.1021/op020074q>`_ 
+2. LIQUID-LIQUID MIXING IN STIRRED VESSELS: A REVIEW *Chemical Engineering Communications* **200** (5), 595-627, (2013). `DOI: 10.1080/00986445.2012.717313 <https://doi.org/10.1080/00986445.2012.717313>`_
 3. David J. am Ende and Mary Tanya am Ende *Chemical engineering in the pharmaceutical industry - drug product design, development and modeling*, 2nd Ed., Wiley (2019).
 4. https://www.shi-pe.shi.co.jp/english/technology/index.html
 5. `Chapter 6 mixing <https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7qKKpY_9AhUSBt4KHQbVDGoQFnoECA0QAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPrem_Baboo%2Fpost%2FWhat_is_the_required_power_of_submerged_mixer_in_equalization_tank_before_ABR%2Fattachment%2F59d626b379197b8077984f88%2FAS%253A322848827084801%25401453984566680%2Fdownload%2F7-110415153545.pdf&usg=AOvVaw1yAAel74uHZwjk-iLMUVYa>`_
 6. `AIChE Mixing <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_
-7. D. J. am Ende, C. B. Seymour and T. J. N. Watson *J. Pharm. Innov.* 72-78 (2010).
+7. A Science and Risk Based Proposal for Understanding Scale and Equipment Dependencies of Small Molecule Drug Substance Manufacturing Processes *J. Pharm. Innov.* **2010**, 5, 72-78. `DOI: 10.1007/s12247-010-9083-1 <https://doi.org/10.1007/s12247-010-9083-1>`_
 8. Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta *Handbook of industrial mixing: Science and Practics*, 1 st Ed., Wiley-Interscience (2003).
 9. Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, North American Mixing forum *Advances in Industrial Mixing : a Companion to the Handbook of Industrial Mixing*, 1st Ed., Wiely (2015).
 
