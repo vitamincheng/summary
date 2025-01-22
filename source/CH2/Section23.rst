@@ -75,7 +75,7 @@ Simple Method (CHEM-SP) to Predict Solubility from 2-D Chemical Structures. *Org
 
 Trace Impurity of Organic Solvents
 ------------------------------------------------------------
-Peroxides in ethyl acetate. *Chemical & Engineering News* **2000** Vol. *78*, No. 51, page 2. `http://pubsapp.acs.org/cen/safety/20001218.html? <http://pubsapp.acs.org/cen/safety/20001218.html?>`_
+Peroxides in ethyl acetate. *Chemical & Engineering News* **2000** Vol. *78*, No. 51, page 2. `Link <http://pubsapp.acs.org/cen/safety/20001218.html?>`_
 
  | *We have also observed amines being oxidized to N-oxides, and Baeyer-Villiger-like oxidations. Therefore, it seems most likely that the peroxide impurity is peracetic acid formed by autooxidation of ethanol (from hydrolysis) to acetaldehyde and then to peracetic acid.*
 
@@ -83,7 +83,7 @@ Dichloromethane 1.Exposure Data – IARC Publications
 
  | *Purity, when reported, ranges from 99 to 99.99%. Acidity (as hydrochloric acid) may be up to 5 mg/kg. The maximum concentration of water in these grades of dichloromethane is 100 mg/kg.*
 
-Chemical safety: peroxide formation in 2-propanol `https://cen.acs.org/articles/94/i31/Chemical-safety-peroxide-formation-isopropanol.html <https://cen.acs.org/articles/94/i31/Chemical-safety-peroxide-formation-isopropanol.html>`_
+Chemical safety: peroxide formation in 2-propanol `Link <https://cen.acs.org/articles/94/i31/Chemical-safety-peroxide-formation-isopropanol.html>`_
 
  | *We suggest that diisopropyl ether, a well-known peroxidizable substance, formed during refluxing of 2-propanol with magnesium. Our results indicate that the first distillation performed without a Vigreux column was not sufficient, while an additional second distillation led to complete removal of all of the formed peroxidizable substance.*
 

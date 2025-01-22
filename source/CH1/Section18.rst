@@ -20,7 +20,7 @@ Safe Scale-Up of Pharmaceutical Manufacturing Processes with Dimethyl Sulfoxide 
 
 Explosion Hazards of Sodium Hydride in Dimethyl Sulfoxide, N,N-Dimethylformamide, and N,N-Dimethylacetamide.  *Org. Process Res. Dev.* **2019**, *23* (10), 2210–2217. `DOI: 10.1021/acs.oprd.9b00276 <https://dx.doi.org/10.1021/acs.oprd.9b00276>`_
 
-Synthesis, Optimization, and Thermal Risk Analysis of One-Pot N-Nitrodiethanolamine Dinitrate Synthesis. *Org. Process Res. Dev.* **2019**, *23* (11), 2388–2393.   `https://dx.doi.org/10.1021/acs.oprd.9b00300 <DOI: 10.1021/acs.oprd.9b00300>`_ 
+Synthesis, Optimization, and Thermal Risk Analysis of One-Pot N-Nitrodiethanolamine Dinitrate Synthesis. *Org. Process Res. Dev.* **2019**, *23* (11), 2388–2393.   `DOI: 10.1021/acs.oprd.9b00300 <DOI: 10.1021/acs.oprd.9b00300>`_ 
 
 Potential Safety Hazards Associated with Pd-Catalyzed Cross-Coupling Reactions. Org. Process Res. Dev. 2019, 23, 12, 2608–2626. *Org. Process Res. Dev.* **2019**, *23* (12), 2608–2626.  `DOI: 10.1021/acs.oprd.9b00377 <https://dx.doi.org/10.1021/acs.oprd.9b00377>`_
 

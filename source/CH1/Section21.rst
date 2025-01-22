@@ -11,7 +11,7 @@ Mutagenic Impurities in 1-Hydroxybenzotriazole (HOBt). *Org. Process Res. Dev.* 
  | *Process optimization of an amidation reaction employing HOBt as a reagent uncovered a hydrazide impurity associated with the quality and quantity of HOBt used in the reaction.*
  | *Follow-up studies suggested that commercial HOBt could be contaminated with small but variable amounts of hydrazine. Development of a single analytical method able to quantitate both hydrazine and 1-chloro-2-nitrobenzene (two putative precursors) in HOBt allowed us to determine that hydrazine.*
 
-Analytical Quality by Design (AQbD) in Pharmaceutical Development  `https://www.americanpharmaceuticalreview.com/Featured-Articles/144191-Analytical-Quality-by-Design-AQbD-in-Pharmaceutical-Development/ <https://www.americanpharmaceuticalreview.com/Featured-Articles/144191-Analytical-Quality-by-Design-AQbD-in-Pharmaceutical-Development/>`_
+Analytical Quality by Design (AQbD) in Pharmaceutical Development  `Link <https://www.americanpharmaceuticalreview.com/Featured-Articles/144191-Analytical-Quality-by-Design-AQbD-in-Pharmaceutical-Development/>`_
 
 Simultaneous Determination of Residual Palladium and Thiol Homogeneous Scavenger N-Acetylcysteine in Active Pharmaceutical Ingredients Using Inductive Coupled Plasma-Mass Spectrometry.  *Org. Process Res. Dev.* **2021**, *25* (6), 1352–1359. `DOI: 10.1021/acs.oprd.0c00542 <https://doi.org/10.1021/acs.oprd.0c00542>`_
 

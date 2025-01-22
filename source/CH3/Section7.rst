@@ -1,14 +1,6 @@
 Computational Fluid Dynamics (CFD)
 =========================================
 
-Textbooks
-----------------------------------------------
-| *An Introduction to Computational Fluid Dynamics : The Finite Volume Method*  -H. Versteeg, W. Malalasekra (2nd Ed).
-| *The Finite Volume Method in Computational Fluid Dynamics : An advanced Introduction with OpenFOAM and Matlab* F. Moukalled, L. Mangani, M. Darwish Springer (2016).
-
-
-
-
 
 Navier–Stokes equations
 ----------------------------------------------
@@ -36,9 +28,14 @@ Application of computational fluid dynamics for the optimization of homogenizati
 
 Use of OpenFOAM® for the Investigation of Mixing Time in Agitated Vessels with Immersed Helical Coil. `https://link.springer.com/chapter/10.1007/978-3-319-60846-4_36 <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_
 
-Digital Design of Batch Cooling Crystallization Processes: Computational Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in Agitated Crystallizers. `https://doi.org/10.1021/acs.oprd.0c00240 <https://doi.org/10.1021/acs.oprd.0c00240>`_
+Digital Design of Batch Cooling Crystallization Processes: Computational Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in Agitated Crystallizers. `DOI: 10.1021/acs.oprd.0c00240 <https://doi.org/10.1021/acs.oprd.0c00240>`_
 
-International Journal of Chemical Engineering 2012, (1687-806X). CFD Modeling of Solid Suspension in a Stirred Tank: Effect of Drag Models and Turbulent Dispersion on Cloud Height. `https://doi.org/10.1155/2012/956975 <https://doi.org/10.1155/2012/956975>`_
+International Journal of Chemical Engineering 2012, (1687-806X). CFD Modeling of Solid Suspension in a Stirred Tank: Effect of Drag Models and Turbulent Dispersion on Cloud Height. `DOI: 10.1155/2012/956975 <https://doi.org/10.1155/2012/956975>`_
 
-Application of Modeling to Scale-up Dissolution in Pharmaceutical Manufacturing. `https://dx.doi.org/10.1208%2Fs12249-010-9533-6 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
+Application of Modeling to Scale-up Dissolution in Pharmaceutical Manufacturing. `DOI: 10.1208%2Fs12249-010-9533-6 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
 
+
+Textbooks
+----------------------------------------------
+| *An Introduction to Computational Fluid Dynamics : The Finite Volume Method*  -H. Versteeg, W. Malalasekra (2nd Ed).
+| *The Finite Volume Method in Computational Fluid Dynamics : An advanced Introduction with OpenFOAM and Matlab* F. Moukalled, L. Mangani, M. Darwish Springer (2016).

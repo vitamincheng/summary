@@ -4,13 +4,13 @@ Softwares and Installation
 Softwares
 --------------------------------------------------------------
 
- - User Guide to Semiempirical Tight Binding (xtb doc) https://xtb-docs.readthedocs.io/en/latest/contents.html
- - ORCA tutorial (FAccTs) https://www.orcasoftware.de/tutorials_orca/index.html
- - Avogadro Software https://avogadro.cc/
- - Visual Molecular Dynamics (VMD) https://www.ks.uiuc.edu/Research/vmd/
- - Jmol http://jmol.sourceforge.net/
- - JANPA http://janpa.sourceforge.net/
- - Molclus http://www.keinsci.com/research/molclus.html
+1. `User Guide to Semiempirical Tight Binding (xtb doc) <https://xtb-docs.readthedocs.io/en/latest/contents.html>`_
+2. `ORCA tutorial (FAccTs) <https://www.orcasoftware.de/tutorials_orca/index.html>`_
+3. `Avogadro Software <https://avogadro.cc/>`_
+4. `Visual Molecular Dynamics (VMD) <https://www.ks.uiuc.edu/Research/vmd/>`_
+5. `Jmol <http://jmol.sourceforge.net/>`_
+6. `JANPA <http://janpa.sourceforge.net/>`_
+7. `Molclus <http://www.keinsci.com/research/molclus.html>`_
 
 Installation (censo)
 ---------------------------------------------------------------------

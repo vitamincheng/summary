@@ -1,14 +1,6 @@
 Structure Elucidation and Conformation Analysis
 =====================================================
 
-Textbooks
-------------------------------------------------
-
-Neil E Jacobsen, *NMR data interpretation explained : understanding 1D and 2D NMR spectra of organic compounds and natural products* - Wiley (2017).
-Ernest L. Eliel and Samuel H. Wilen, *Stereochemistry of Organic Compounds* – Wiley (1994).
-
-
-
 References
 -----------------------------------------------------
 
@@ -32,3 +24,9 @@ Rotamers or Diastereomers ??
 
 Rotamers or Diastereomers? An Overlooked NMR Solution. *J. Org. Chem.* **2012**, *77* (11), 5198–5202.  `DOI: 10.1021/jo300734r <https://doi.org/10.1021/jo300734r>`_
 
+
+Textbooks
+------------------------------------------------
+
+Neil E Jacobsen, *NMR data interpretation explained : understanding 1D and 2D NMR spectra of organic compounds and natural products* - Wiley (2017).
+Ernest L. Eliel and Samuel H. Wilen, *Stereochemistry of Organic Compounds* – Wiley (1994).

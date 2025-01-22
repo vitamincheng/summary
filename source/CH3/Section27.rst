@@ -67,8 +67,8 @@ References
 2. R. A. Ghotli, A. A. A. Raman, S. Ibrahim and S. Baroutian *Chemical Engineering Communications* **200** (5), 595-627, (2013).
 3. David J. am Ende and Mary Tanya am Ende *Chemical engineering in the pharmaceutical industry - drug product design, development and modeling*, 2nd Ed., Wiley (2019).
 4. https://www.shi-pe.shi.co.jp/english/technology/index.html
-5. https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7qKKpY_9AhUSBt4KHQbVDGoQFnoECA0QAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPrem_Baboo%2Fpost%2FWhat_is_the_required_power_of_submerged_mixer_in_equalization_tank_before_ABR%2Fattachment%2F59d626b379197b8077984f88%2FAS%253A322848827084801%25401453984566680%2Fdownload%2F7-110415153545.pdf&usg=AOvVaw1yAAel74uHZwjk-iLMUVYa
-6. https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf
+5. `Chapter 6 mixing <https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7qKKpY_9AhUSBt4KHQbVDGoQFnoECA0QAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPrem_Baboo%2Fpost%2FWhat_is_the_required_power_of_submerged_mixer_in_equalization_tank_before_ABR%2Fattachment%2F59d626b379197b8077984f88%2FAS%253A322848827084801%25401453984566680%2Fdownload%2F7-110415153545.pdf&usg=AOvVaw1yAAel74uHZwjk-iLMUVYa>`_
+6. `AIChE Mixing <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_
 7. D. J. am Ende, C. B. Seymour and T. J. N. Watson *J. Pharm. Innov.* 72-78 (2010).
 8. Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta *Handbook of industrial mixing: Science and Practics*, 1 st Ed., Wiley-Interscience (2003).
 9. Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, North American Mixing forum *Advances in Industrial Mixing : a Companion to the Handbook of Industrial Mixing*, 1st Ed., Wiely (2015).

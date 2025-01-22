@@ -1,11 +1,6 @@
 Machine Learning
 =====================================================
 
-Textbooks (For Physics - Computational Fluid Dynamics)
----------------------------------------------------------
-
-Steven L. Brunton, *Data-Driven Science and Engineering - Machine Learning, Dynamical Systems, and Control* - Cambridge University Press (2022).
-Miguel A. Mendez, A. Laniro, Bernd R. Noack, Steven L. Brunton, *Data-Driven Fluid Mechanics - Combining First Principles and Machine Learning* - Cambridge University Press(2023).
 
 Random Forest Algorithm
 -----------------------------------------------------
@@ -21,3 +16,8 @@ MetaRF: attention‑based random forest for reaction yield prediction with a few
  | Use python language
  | `MetaRF github <https://github.com/Nikki0526/MetaRF>`_
  | `Workflow of MetaRF turorial <https://github.com/Nikki0526/MetaRF/blob/main/Workflow_of_MetaRF_Tutorial.ipynb>`_
+
+Textbooks (Computational Fluid Dynamics)
+---------------------------------------------------------
+Steven L. Brunton, *Data-Driven Science and Engineering - Machine Learning, Dynamical Systems, and Control* - Cambridge University Press (2022).
+Miguel A. Mendez, A. Laniro, Bernd R. Noack, Steven L. Brunton, *Data-Driven Fluid Mechanics - Combining First Principles and Machine Learning* - Cambridge University Press(2023).

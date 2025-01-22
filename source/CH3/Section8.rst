@@ -1,17 +1,10 @@
 Mixing in Stirred Vessels
 =========================================
 
-Textbooks
-----------------------------------------------
-| Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta - *Handbook of industrial mixing science and practice* – Wiley - Interscience (2003).
-| Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, *Advances in Industrial Mixing : a Companion to the Handbook of industrial mixing* - Wiley (2015).
-| Am Ende, D. J., am Ende M. T.; *Chemical Engineering in the Pharmaceutical Industry: Active Pharmaceutical Ingredients* – Wiley (2019).
-
-
 Reference
 ---------------------------------------------------------
 
-Liquid-liquid mixing in stirred vessels: A review. `https://dx.doi.org/10.1080/00986445.2012.717313 <https://dx.doi.org/10.1080/00986445.2012.717313>`_
+Liquid-liquid mixing in stirred vessels: A review. `DOI: 10.1080/00986445.2012.717313 <https://dx.doi.org/10.1080/00986445.2012.717313>`_
 
  | *Blending of miscible liquids happens slowly by molecular diffusion and natural convection. Thus, agitation systems can apply forced convection to obtain homogeneity more rapidly (Rushton, 1956).*
  | *Liquid-liquid mixing is divided into miscible and immiscible liquid-liquid mixing (van de Vusse, 1955). The term ’’blending’’ is used to describe miscible liquid mixing, while the term ‘‘mixing’’ is used for dispersions of immiscible liquids or the formation of emulsions (Jakobsen, 2008; Rushton, 1956).*
@@ -24,18 +17,18 @@ Liquid-liquid mixing in stirred vessels: A review. `https://dx.doi.org/10.1080/0
  | *Classically, geometric similarity and constant tip speed and, second, power input are commonly used.* 
  | *Generally, either power per unit volume (P/V) or torque per unit volume (Tq/V) should be held constant on scale-up. Scale-up methods established on constant blend time demand that the agitation speed in the plant vessel be similar to that of the laboratory vessels.*
 
-Liquid-Phase Mixing in Stirred Vessels:  Turbulent Flow Regime. `https://doi.org/10.1021/ie0206397 <https://doi.org/10.1021/ie0206397>`_
+Liquid-Phase Mixing in Stirred Vessels:  Turbulent Flow Regime. `DOI: 10.1021/ie0206397 <https://doi.org/10.1021/ie0206397>`_
 
-Reviews in Chemical Engineering 2015, 119-147. Solid-liquid mixing analysis in stirred vessels. `https://doi.org/10.1515/revce-2014-0028 <https://doi.org/10.1515/revce-2014-0028>`_
+Reviews in Chemical Engineering 2015, 119-147. Solid-liquid mixing analysis in stirred vessels. `DOI: 10.1515/revce-2014-0028 <https://doi.org/10.1515/revce-2014-0028>`_
 
-Scale-Up of Solid-Liquid Mixing Based on Constant Power/Volume and Equal Blend Time Using VisiMix Simulation. `https://doi.org/10.1051/matecconf/201818704002 <https://doi.org/10.1051/matecconf/201818704002>`_
+Scale-Up of Solid-Liquid Mixing Based on Constant Power/Volume and Equal Blend Time Using VisiMix Simulation. `DOI: 10.1051/matecconf/201818704002 <https://doi.org/10.1051/matecconf/201818704002>`_
 
 CFD simulation of local and global mixing time in an agitated tank. `https://link.springer.com/article/10.3901/CJME.2016.1107.129 <https://link.springer.com/article/10.3901/CJME.2016.1107.129>`_
 
-Evaluation of Just-Suspended Speed Correlations in Lab-Scale Tanks with Varying Baffle Configurations. `https://doi.org/10.1021/acs.oprd.8b00244 <https://doi.org/10.1021/acs.oprd.8b00244>`_
+Evaluation of Just-Suspended Speed Correlations in Lab-Scale Tanks with Varying Baffle Configurations. `DOI: 10.1021/acs.oprd.8b00244 <https://doi.org/10.1021/acs.oprd.8b00244>`_
 
 Application of Modeling to Scale-up Dissolution in Pharmaceutical Manufacturing.
-`https://dx.doi.org/10.1208%2Fs12249-010-9533-6 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
+`DOI: 10.1208%2Fs12249-010-9533-6 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
 
 V Shankar Rajchhabra *Coulson and Richardson's Chemical Engineering Volume 1A - Fluid Flow: Fundamentals and Applications* (Butterworth-Heinemann. 7 Ed). 
 
@@ -69,7 +62,7 @@ Tackling  Difficult Mixing Problems Vortex. `https://www.aiche.org/sites/default
 
  | *Greatest misunderstanding about mixing is that a vortex on the surface is necessary for good mixing. In fact, the opposite is closer to the truth. Just as race cars moving around a track do not collide if they follow each other or move along parallel paths, radial mixing cannot occur if all of the liquid is moving in coherent rotation.*
 
-Solid–Liquid Suspension in Pilot Plants: Using Engineering Tools to Understand At-Scale Capabilities. `https://dx.doi.org/10.1021/acs.oprd.5b00053 <https://dx.doi.org/10.1021/acs.oprd.5b00053>`_
+Solid–Liquid Suspension in Pilot Plants: Using Engineering Tools to Understand At-Scale Capabilities. `DOI: 10.1021/acs.oprd.5b00053 <https://dx.doi.org/10.1021/acs.oprd.5b00053>`_
 
 
 Am Ende, D. J., am Ende M. T.; *Chemical Engineering in the Pharmaceutical Industry: drug product design, development and modeling* – Wiley (2019).
@@ -91,14 +84,8 @@ The Role of Mixing in Fast, Competitive Chemical Reactions `https://mixing.net/F
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+Textbooks
+----------------------------------------------
+| Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta - *Handbook of industrial mixing science and practice* – Wiley - Interscience (2003).
+| Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, *Advances in Industrial Mixing : a Companion to the Handbook of industrial mixing* - Wiley (2015).
+| Am Ende, D. J., am Ende M. T.; *Chemical Engineering in the Pharmaceutical Industry: Active Pharmaceutical Ingredients* – Wiley (2019).

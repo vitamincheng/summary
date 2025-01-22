@@ -1,7 +1,8 @@
-References (For Presentation - Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra)
+Fully Automated QC-Based Computation of Spin–Spin-Coupled NMR Spectra
 ==========================================================================================================================
 
-
+References
+-------------------------------
 1. S. Grimme, C. Bannwarth, S. Dohm, A. Hansen, J. Pisarek, P. Pracht, J. Seibert, and F. Neese, *Angew Chem., Int. Ed.* **2017,** *56*, 14763–14769. `DOI: 10.1002/anie.201708266 <https://doi.org/10.1002/anie.201708266>`_
 2. S. Grimme, F. Bohle, A. Hansen, P. Pracht, S. Spicher, and M. Stahn *J. Phys. Chem. A* **2021,** *125*, (19), 4039–4054.  `DOI: 10.1021/acs.jpca.1c00971 <https://dx.doi.org/10.1021/acs.jpca.1c00971>`_
 3. M. Bursch, J. Mewes, A. Hansen, S. Grimme.   *Angew Chem., Int. Ed.* **2022**, *61* (42), e202205735. `DOI: 10.1002/anie.202205735 <https://doi.org/10.1002/anie.202205735>`_

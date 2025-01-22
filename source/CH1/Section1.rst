@@ -1,13 +1,8 @@
 
 Design of Experiments (DoE)
 ================================================
-| OFAT – one factor at a time.
 | Six steps of Experimental Design: **Plan, Design, Perform, Analyze, Confirm and Evaluate.**
 
-Textbooks
-------------------------------------------------------
-| Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017).
-| Paul D. Berger, Robert E. Maurer, Giovana B. Celli, *Experimental Design with Applications in Management, Engineering and the Sciences* – Springer (2018).
 
 Screening or Characterization Experiments
 --------------------------------------------
@@ -22,55 +17,55 @@ Iterator or Sequential Experiments
 
 .. image:: https://learnche.org/pid/_images/RSM-base-case-combined.png
 
-Reference:  `https://learnche.org/pid/_images/RSM-base-case-combined.png <https://learnche.org/pid/_images/RSM-base-case-combined.png>`_
+Reference:  `Link <https://learnche.org/pid/_images/RSM-base-case-combined.png>`_
 
 
 Optimization Experiments
 -------------------------------------------
-Response surface design (RSM), central composite design (CCD)
-To estimate main effects, interactions and quadratic effects.
-second-order model is used to fit the curves.
-Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017), Chapter 10 Fitting Regression Models and Chapter 11 Response Surface Methods and Designs.
+| Response surface design (RSM), central composite design (CCD)
+| To estimate main effects, interactions and quadratic effects.
+| second-order model is used to fit the curves.
+| see Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017), Chapter 10 Fitting Regression Models and Chapter 11 Response Surface Methods and Designs.
 
 Confirmation Experiments
 ----------------------------------------------
-Repeated three times of experiments.
+| Repeated three times of experiments.
 
 Robustness
 ----------------------------------------------
-Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017), Chapter 12 Robust Parameter Design and Process Robustness Studies.
+| see Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017), Chapter 12 Robust Parameter Design and Process Robustness Studies.
 
 Mixture Experiments (Nested and split-plot Designs)
 ------------------------------------------------------
 
 Definitive Screening Designs (DSDs)
 --------------------------------------------------------
-DSD provide the opportunity to combine screening and optimization into a single step.
-First stepwise regression (multiple linear regression) was used identify the important terms, and then a simple regression model built using just these terms.
+| DSD provide the opportunity to combine screening and optimization into a single step.
+| First stepwise regression (multiple linear regression) was used identify the important terms, and then a simple regression model built using just these terms.
 
 References
 ----------------------------------------------------------
-Automated Process Research. An Example of Accelerated Optimization of the Friedel−Crafts Acylation Reaction, a Key Step for the Synthesis of Anti-HIV (+)-Calanolide A. *Org. Proc. Res. Dev.* **2000**, *4* (6), 577–580. `DOI: 10.1021/op0002038 <https://dx.doi.org/10.1021/op0002038>`_
+| Automated Process Research. An Example of Accelerated Optimization of the Friedel−Crafts Acylation Reaction, a Key Step for the Synthesis of Anti-HIV (+)-Calanolide A. *Org. Proc. Res. Dev.* **2000**, *4* (6), 577–580. `DOI: 10.1021/op0002038 <https://dx.doi.org/10.1021/op0002038>`_
 
-Automated Process Research and the Optimization of the Synthesis of 4(5)-(3-Pyridyl)imidazole. *Org. Proc. Res. Dev.* **2001**, *5* (1), 50–53. `DOI: 10.1021/op0000881 <https://dx.doi.org/10.1021/op0000881>`_
+| Automated Process Research and the Optimization of the Synthesis of 4(5)-(3-Pyridyl)imidazole. *Org. Proc. Res. Dev.* **2001**, *5* (1), 50–53. `DOI: 10.1021/op0000881 <https://dx.doi.org/10.1021/op0000881>`_
 
-3,4,5-Tri-dodecyloxybenzoic Acid:  Optimisation and Scale-Up of the Synthesis. *Org. Proc. Res. Dev.* **2001**, *5* (1), 54–60. `DOI: 10.1021/op000066e <https://dx.doi.org/10.1021/op000066e>`_
+| 3,4,5-Tri-dodecyloxybenzoic Acid:  Optimisation and Scale-Up of the Synthesis. *Org. Proc. Res. Dev.* **2001**, *5* (1), 54–60. `DOI: 10.1021/op000066e <https://dx.doi.org/10.1021/op000066e>`_
 
-Efficiency by Design:  Optimisation in Process Research. *Org. Proc. Res. Dev.* **2001**, *5* (3), 308–323. `DOI: 10.1021/op000024q <https://dx.doi.org/10.1021/op000024q>`_
+| Efficiency by Design:  Optimisation in Process Research. *Org. Proc. Res. Dev.* **2001**, *5* (3), 308–323. `DOI: 10.1021/op000024q <https://dx.doi.org/10.1021/op000024q>`_
 
-DOE (Design of Experiments) in Development Chemistry:  Potential Obstacles. *Org. Proc. Res. Dev.* **2001**, *5* (3), 324–327. `DOI: 10.1021/op000025i <https://dx.doi.org/10.1021/op000025i>`_
+| DOE (Design of Experiments) in Development Chemistry:  Potential Obstacles. *Org. Proc. Res. Dev.* **2001**, *5* (3), 324–327. `DOI: 10.1021/op000025i <https://dx.doi.org/10.1021/op000025i>`_
 
-Optimizing Selective Partial Hydrogenations of 4-Nitroacetophenone via Parallel Reaction Screening. *Org. Proc. Res. Dev.* **2001**, *5* (3), 328–330. `DOI: 10.1021/op010016p <https://dx.doi.org/10.1021/op010016p>`_
+| Optimizing Selective Partial Hydrogenations of 4-Nitroacetophenone via Parallel Reaction Screening. *Org. Proc. Res. Dev.* **2001**, *5* (3), 328–330. `DOI: 10.1021/op010016p <https://dx.doi.org/10.1021/op010016p>`_
 
-Application of the Response Surface Methodology for the Design of a Lixiviation Process. *Org. Proc. Res. Dev.* **2002**, *6* (6), 841–846. `DOI: 10.1021/op0255534 <https://dx.doi.org/10.1021/op0255534>`_
+| Application of the Response Surface Methodology for the Design of a Lixiviation Process. *Org. Proc. Res. Dev.* **2002**, *6* (6), 841–846. `DOI: 10.1021/op0255534 <https://dx.doi.org/10.1021/op0255534>`_
 
-Optimization of the Reduction of a 5-Benzylidenethiazolidine-2,4-dione Derivative Supported by the Reaction Response Surface Analysis:  Synthesis of Pioglitazone Hydrochloride. *Org. Proc. Res. Dev.* **2004**, *8* (2), 157–162. `DOI: 10.1021/op0300286 <https://dx.doi.org/10.1021/op0300286>`_
+| Optimization of the Reduction of a 5-Benzylidenethiazolidine-2,4-dione Derivative Supported by the Reaction Response Surface Analysis:  Synthesis of Pioglitazone Hydrochloride. *Org. Proc. Res. Dev.* **2004**, *8* (2), 157–162. `DOI: 10.1021/op0300286 <https://dx.doi.org/10.1021/op0300286>`_
 
-Use of DOE for Rapid Development of a Red-Al Reduction Process for the Synthesis of 3,4-Isopropylidenedioxypyrrolidine Hydrotosylate. *Org. Proc. Res. Dev.* **2004**, *8* (6), 834–837. `DOI: 10.1021/op040204q <https://dx.doi.org/10.1021/op040204q>`_
+| Use of DOE for Rapid Development of a Red-Al Reduction Process for the Synthesis of 3,4-Isopropylidenedioxypyrrolidine Hydrotosylate. *Org. Proc. Res. Dev.* **2004**, *8* (6), 834–837. `DOI: 10.1021/op040204q <https://dx.doi.org/10.1021/op040204q>`_
 
-Optimization of Copper(I)-Catalyzed 1,6-Conjugate Addition of a Methyl Group to 17β-Acetoxy-4,6-estradien-3-one. *Org. Proc. Res. Dev.* **2004**, *8* (6), 846–851. `DOI: 10.1021/op040010a <https://dx.doi.org/10.1021/op040010a>`_
+| Optimization of Copper(I)-Catalyzed 1,6-Conjugate Addition of a Methyl Group to 17β-Acetoxy-4,6-estradien-3-one. *Org. Proc. Res. Dev.* **2004**, *8* (6), 846–851. `DOI: 10.1021/op040010a <https://dx.doi.org/10.1021/op040010a>`_
 
-Optimisation of Ethyl(2-phthalimidoethoxy)acetate Synthesis with the Aid of DOE. *Org. Process Res. Dev.* **2005**, *9* (1), 18–22. `DOI: 10.1021/op030029y <https://dx.doi.org/10.1021/op030029y>`_
+| Optimisation of Ethyl(2-phthalimidoethoxy)acetate Synthesis with the Aid of DOE. *Org. Process Res. Dev.* **2005**, *9* (1), 18–22. `DOI: 10.1021/op030029y <https://dx.doi.org/10.1021/op030029y>`_
 
  | **Type: alkylation** (First)
  | Design: Full factorial design
@@ -208,14 +203,19 @@ A Design of Experiments Approach to a Robust Final Deprotection and Reactive Cry
  | Responses measured: (1) product yield (2) purity (3) mass balance including the mother liquors (a representation of any decomposition or side-reaction that could have occurred).
 
 
-Investigating Process Variables and Additive Selection To Optimize Polymorphic Control of Carbamazepine in a CO2 Antisolvent Crystallization Process. *Org. Process Res. Dev.* **2020**, *24* (6), 1006–1017. `DOI: 10.1021/acs.oprd.9b00545 <https://dx.doi.org/10.1021/acs.oprd.9b00545>`_
+| Investigating Process Variables and Additive Selection To Optimize Polymorphic Control of Carbamazepine in a CO2 Antisolvent Crystallization Process. *Org. Process Res. Dev.* **2020**, *24* (6), 1006–1017. `DOI: 10.1021/acs.oprd.9b00545 <https://dx.doi.org/10.1021/acs.oprd.9b00545>`_
 
-An Improved Process for the Manufacture of 5′-O-(4,4′-Dimethoxytrityl)-N2-isobutyryl-2′-O-(2-methoxyethyl)guanosine. *Org. Process Res. Dev.* **2020**, *24*, (11), 2583–2590. `DOI: 10.1021/acs.oprd.0c00261 <https://doi.org/10.1021/acs.oprd.0c00261>`_
+| An Improved Process for the Manufacture of 5′-O-(4,4′-Dimethoxytrityl)-N2-isobutyryl-2′-O-(2-methoxyethyl)guanosine. *Org. Process Res. Dev.* **2020**, *24*, (11), 2583–2590. `DOI: 10.1021/acs.oprd.0c00261 <https://doi.org/10.1021/acs.oprd.0c00261>`_
 
-Robust Process Scale-Up Leveraging Design of Experiments to Map Active Pharmaceutical Ingredient Humid Drying Parameter Space. *Org. Process Res. Dev.* **2021**, *25* (2), 239–249.  `DOI: 10.1021/acs.oprd.0c00475 <https://doi.org/10.1021/acs.oprd.0c00475>`_
+| Robust Process Scale-Up Leveraging Design of Experiments to Map Active Pharmaceutical Ingredient Humid Drying Parameter Space. *Org. Process Res. Dev.* **2021**, *25* (2), 239–249.  `DOI: 10.1021/acs.oprd.0c00475 <https://doi.org/10.1021/acs.oprd.0c00475>`_
 
-Elucidation of the Mechanism of Endo-XaaC-terminal Peptide Impurity Formation in SPPS through DoE Investigation, Their Control, and Suppression. *Org. Process Res. Dev.* **2021**, *25* (2), 250–261. `DOI: 10.1021/acs.oprd.0c00478 <https://doi.org/10.1021/acs.oprd.0c00478>`_
+| Elucidation of the Mechanism of Endo-XaaC-terminal Peptide Impurity Formation in SPPS through DoE Investigation, Their Control, and Suppression. *Org. Process Res. Dev.* **2021**, *25* (2), 250–261. `DOI: 10.1021/acs.oprd.0c00478 <https://doi.org/10.1021/acs.oprd.0c00478>`_
 
 Reviews
 --------------------------------------------------
-Design of Experiments (DoE) and Process Optimization. A Review of Recent Publications. *Org. Process Res. Dev.* **2015**, *19* (11), 1605–1633. `DOI: 10.1021/op500169m <https://dx.doi.org/10.1021/op500169m>`_
+| Design of Experiments (DoE) and Process Optimization. A Review of Recent Publications. *Org. Process Res. Dev.* **2015**, *19* (11), 1605–1633. `DOI: 10.1021/op500169m <https://dx.doi.org/10.1021/op500169m>`_
+
+Textbooks
+------------------------------------------------------
+| Douglas C. Montgomery, *Design and Analysis of Experiments* - Wiley (2017).
+| Paul D. Berger, Robert E. Maurer, Giovana B. Celli, *Experimental Design with Applications in Management, Engineering and the Sciences* – Springer (2018).
