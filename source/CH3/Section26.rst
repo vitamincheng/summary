@@ -1,8 +1,8 @@
-Moisture of air is critical factor ??
-=========================================
+Moisture of air is critical factor in experiment ??
+====================================================
 **Precondition:**
 
- | To a solution of 2L round bottom flask is added specified solute and solvent and allow approximately 1L of remaining air.
+ | A 2 L round-bottom flask was charged with the specified solute and solvent, leaving approximately 1 L of air remaining in the flask. 
  | solvent KF = 0.02 %
  | solid KF = 1.0 %
  | solid MW = 100 (g/mol)
@@ -130,8 +130,9 @@ Example 3 : General Condition (10V solvent)
 Conclusion
 ------------------------------------------------------------------
 
- | The moisture of air in the flask is filled up to 100% and the weight percentage of moisture is range from 4.0 to 1.4% in all the system. 95% ~ 98% of water comes from residual water of solvents and solids.
- | Above the 3 examples we knew that the moisture in air is not critical factor and we necessary to concern the water content of solvents and solids in first.
+
+ | Theoretical calculations indicate that while maintaining 100% relative humidity in the flask's headspace, the total system moisture content would range from 1.4% to 4.0% (w/w). This moisture is predominantly attributed to residual water in the solvents and solids (95-98%), suggesting that controlling solvent and solid water content is paramount, rather than focusing on ambient humidity.
+
 
 
 

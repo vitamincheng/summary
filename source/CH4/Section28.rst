@@ -4,7 +4,7 @@ Softwares and Installation
 Softwares
 --------------------------------------------------------------
 
-1. `User Guide to Semiempirical Tight Binding (xtb doc) <https://xtb-docs.readthedocs.io/en/latest/contents.html>`_
+1. `User Guide to Semiempirical Tight Binding (xtb doc) <https://xtb-docs.readthedocs.io/en/latest/>`_
 2. `ORCA tutorial (FAccTs) <https://www.orcasoftware.de/tutorials_orca/index.html>`_
 3. `Avogadro Software <https://avogadro.cc/>`_
 4. `Visual Molecular Dynamics (VMD) <https://www.ks.uiuc.edu/Research/vmd/>`_
