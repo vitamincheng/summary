@@ -70,7 +70,7 @@ References
    2nd Ed., Wiley (2019).
 4. `https://shi-pe.shi.co.jp <https://www.shi-pe.shi.co.jp/english/technology/index.html>`_
 5. `Chapter 6 mixing <https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7qKKpY_9AhUSBt4KHQbVDGoQFnoECA0QAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPrem_Baboo%2Fpost%2FWhat_is_the_required_power_of_submerged_mixer_in_equalization_tank_before_ABR%2Fattachment%2F59d626b379197b8077984f88%2FAS%253A322848827084801%25401453984566680%2Fdownload%2F7-110415153545.pdf&usg=AOvVaw1yAAel74uHZwjk-iLMUVYa>`_
-6. `AIChE Mixing <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_
+6. `AIChE STUDENT CONF 2019 <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_ `Link 2 <https://github.com/vitamincheng/summary/tree/main/source/CH3/AIChE_STUDENT_CONF_2019.pdf>`_
 7. A Science and Risk Based Proposal for Understanding Scale and Equipment 
    Dependencies of Small Molecule Drug Substance Manufacturing Processes 
    *J. Pharm. Innov.* **2010**, 5, 72-78. 
