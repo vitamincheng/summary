@@ -10,6 +10,7 @@ Liquid-liquid mixing in stirred vessels: A review.
  | *Blending of miscible liquids happens slowly by molecular diffusion and 
    natural convection. Thus, agitation systems can apply forced convection 
    to obtain homogeneity more rapidly (Rushton, 1956).*
+
  | *Liquid-liquid mixing is divided into miscible and immiscible liquid-liquid 
    mixing (van de Vusse, 1955). The term ’’blending’’ is used to describe 
    miscible liquid mixing, while the term ‘‘mixing’’ is used for dispersions 
@@ -21,17 +22,20 @@ Liquid-liquid mixing in stirred vessels: A review.
    fundamental factor for industrial systems and scale-up , or upon scale-up 
    mixing time will be increased in the larger tank, although a larger 
    impeller will reduce mixing time.* 
+
  | *Dilute systems are the simplest systems to scale up. Many processes 
    have been scaled profitably by employing following rule based on 
    industrial experience.*
  |  *NDx = constant*
  | *It could be used for tanks with Reynolds number greater than 104, and 
    vessels must be geometrically similar.*
+ 
  | *Over the years several criteria have been established for the optimal 
    scale-up of stirred tanks based on similarities of geometries, dynamics, 
    and kinematics.* 
  | *Classically, geometric similarity and constant tip speed and, second, 
    power input are commonly used.* 
+ 
  | *Generally, either power per unit volume (P/V) or torque per unit volume 
    (Tq/V) should be held constant on scale-up. Scale-up methods established 
    on constant blend time demand that the agitation speed in the plant 
@@ -58,6 +62,10 @@ Varying Baffle Configurations.
 Application of Modeling to Scale-up Dissolution in Pharmaceutical 
 Manufacturing. `DOI: 10.1208%2Fs12249-010-9533-6 
 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
+
+   | Utilizing this simple scale-up criterion of similar P/V across different scales, results obtained 
+     indicate fairly good reproducibility of the dissolution profiles 
+     between the two scales. 
 
 V Shankar Rajchhabra *Coulson and Richardson's Chemical Engineering 
 Volume 1A - Fluid Flow: Fundamentals and Applications* 

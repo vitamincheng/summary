@@ -290,56 +290,56 @@ Trace Level Quantification of Derivatized Boronic Acids by LC/MS/MS.
 
 ICH M7
 ------------------------------------------------------------
-Option 1
-Include a test for the impurity in the drug substance specification 
-with an acceptance criterion at or below the acceptable limit using 
-an appropriate analytical procedure. For an Option 1 control 
-approach, it is possible to apply periodic verification testing 
-per ICH Q6A (Ref 10). **Periodic verification testing is justified 
-when it can be shown that levels of the mutagenic impurity in the 
-drug substance are less than 30% of the acceptable limit for at 
-least 6 consecutive pilot scale or 3 consecutive production scale 
-batches**. If this condition is not fulfilled, a routine test in 
-the drug substance specification is recommended. See Section 8.3 
-for additional considerations.
+ | Option 1
+ | Include a test for the impurity in the drug substance specification 
+   with an acceptance criterion at or below the acceptable limit using 
+   an appropriate analytical procedure. For an Option 1 control 
+   approach, it is possible to apply periodic verification testing 
+   per ICH Q6A (Ref 10). **Periodic verification testing is justified 
+   when it can be shown that levels of the mutagenic impurity in the 
+   drug substance are less than 30% of the acceptable limit for at 
+   least 6 consecutive pilot scale or 3 consecutive production scale 
+   batches**. If this condition is not fulfilled, a routine test in 
+   the drug substance specification is recommended. See Section 8.3 
+   for additional considerations.
 
-Option 4
-Understand process parameters and impact on residual impurity levels 
-(including fate and purge knowledge) with sufficient confidence that 
-the level of the impurity in the drug substance will be below the 
-acceptable limit such that no analytical testing is recommended for 
-this impurity. (i.e., the impurity does not need to be listed on 
-any specification).
+ | Option 4
+ | Understand process parameters and impact on residual impurity levels 
+   (including fate and purge knowledge) with sufficient confidence that 
+   the level of the impurity in the drug substance will be below the 
+   acceptable limit such that no analytical testing is recommended for 
+   this impurity. (i.e., the impurity does not need to be listed on 
+   any specification).
 
-7.3.1. Clinical development
-An alternative approach to the strict use of an adjusted acceptable 
-intake for any mutagenic impurity could be applied **for Phase 1 
-clinical trials for dosing up to 14 days. For this approach, only 
-impurities that are known mutagenic carcinogens (Class 1) and known 
-mutagens of unknown carcinogenic potential (Class 2)**, as well as 
-impurities in the cohort of concern chemical class, should be 
-controlled (see Section 8) to acceptable limits as described 
-in Section 7.  All other impurities would be treated as non-mutagenic 
-impurities. This includes impurities which contain structural alerts 
-(Class 3), which alone would not trigger action for an assessment 
-for this limited Phase 1 duration.
+ | 7.3.1. Clinical development
+ | An alternative approach to the strict use of an adjusted acceptable 
+   bioconf_oiv2015_02014` <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_bioconf_oiv2015_02014` <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_bioconf_oiv2015_02014` <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_intake for any mutagenic impurity could be applied **for Phase 1 
+   clinical trials for dosing up to 14 days. For this approach, only 
+   impurities that are known mutagenic carcinogens (Class 1) and known 
+   mutagens of unknown carcinogenic potential (Class 2)**, as well as 
+   impurities in the cohort of concern chemical class, should be 
+   controlled (see Section 8) to acceptable limits as described 
+   in Section 7.  All other impurities would be treated as non-mutagenic 
+   impurities. This includes impurities which contain structural alerts 
+   (Class 3), which alone would not trigger action for an assessment 
+   for this limited Phase 1 duration.
 
-9.1. Clinical trial application
-For Phase 1 studies of 14 days or less a description of efforts to 
-mitigate risks of mutagenic impurities focused on Class 1, and 
-Class 2 impurities and those in the cohort of concern as outlined 
-in Section 7 should be included. **For Phase 1 clinical trials greater 
-than 14 days and for Phase 2a clinical trials additionally Class 3 
-impurities that require analytical controls should be included.**
-**For Phase 2b and Phase 3 clinical development trials, a list of 
-the impurities assessed by (Q)SAR should be included, and any 
-Class 1, 2 or 3 actual and potential impurities should be described 
-along with plans for control. The in silico(Q)SAR systems used to 
-perform the assessments should be described. The results of bacterial 
-mutagenicity tests of actual impurities should be reported.**
+ | 9.1. Clinical trial application
+ | For Phase 1 studies of 14 days or less a description of efforts to 
+   mitigate risks of mutagenic impurities focused on Class 1, and 
+   Class 2 impurities and those in the cohort of concern as outlined 
+   in Section 7 should be included. **For Phase 1 clinical trials greater 
+   than 14 days and for Phase 2a clinical trials additionally Class 3 
+   impurities that require analytical controls should be included.**
+   **For Phase 2b and Phase 3 clinical development trials, a list of 
+   the impurities assessed by (Q)SAR should be included, and any 
+   Class 1, 2 or 3 actual and potential impurities should be described 
+   along with plans for control. The in silico(Q)SAR systems used to 
+   perform the assessments should be described. The results of bacterial 
+   mutagenicity tests of actual impurities should be reported.**
 
-ICH M7: Assessment and Control of Mutagenic Impurities: M7 Implementation 
-Timeline `Link <https://pqri.org/wp-content/uploads/2015/11/Miller.pdf>`_
+ | ICH M7: Assessment and Control of Mutagenic Impurities: M7 Implementation 
+ | Timeline `Link <https://pqri.org/wp-content/uploads/2015/11/Miller.pdf>`_
 
 
 Textbooks

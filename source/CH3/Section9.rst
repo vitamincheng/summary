@@ -30,6 +30,13 @@ The Role of Mixing in Fast, Competitive Chemical Reactions.
 The role of meso-mixing in anti-solvent crystallization processes. 
 `DOI: 10.1016/j.ces.2011.02.042 <https://doi.org/10.1016/j.ces.2011.02.042>`_
 
+ | This paper establishes links between the available turbulent mixing capability 
+   in a fed-batch reactor and important crystallization characteristics such as 
+   the metastable zone width and product nucleation during the 
+   anti-solvent crystallization of benzoic acid. As demonstrated an increase in 
+   locally dominant meso-mixing time scale facilitates the premature and 
+   subsequent sporadic nucleation of the solute.
+
 Turbulent micromixing in chemical reactors — a review. 
 `DOI: 10.1016/0923-0467(95)02982-6 <https://doi.org/10.1016/0923-0467(95)02982-6>`_
 
@@ -42,16 +49,8 @@ Mixing and the Selectivity of Chemical Reactions.
    theoretical principles, typical experimental results, worked examples, 
    and literature references for further study.
  
- | Micromixing control
- 
- | Mesomixing control - time constant to be held constant - difficulty - 
-   It was shown that the best way is to increase the number of feed points 
-   in the large vessel.
- 
- | Macromixing cnotrol
-
 
 Textbook
 -----------------------------------------------------------
-| Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta - *Handbook of industrial mixing science and practice* – Wiley - Interscience (2003).
-| Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, *Advances in Industrial Mixing : a Companion to the Handbook of industrial mixing* - Wiley (2015).
+1. Edward L. Paul, Victor Atiemo-Obeng, Suzanne M. Kresta - *Handbook of industrial mixing science and practice* – Wiley - Interscience (2003).
+2. Suzanne M. Kresta, Arthur W. Etchells III, David S. Dickey, Victor A. Atiemo-Obeng, *Advances in Industrial Mixing : a Companion to the Handbook of industrial mixing* - Wiley (2015).

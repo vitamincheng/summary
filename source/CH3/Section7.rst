@@ -31,8 +31,7 @@ homogenization processes in wine tanks.
 `BIO Web of Conferences, 2015, volume 5, page 6. <https://www.bio-conferences.org/articles/bioconf/abs/2015/02/bioconf_oiv2015_02014/bioconf_oiv2015_02014.html>`_
 
 Use of OpenFOAM® for the Investigation of Mixing Time in Agitated Vessels 
-with Immersed Helical Coil. 
-`https://link.springer.com/chapter/10.1007/978-3-319-60846-4_36 <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_
+with Immersed Helical Coil. `Link <https://link.springer.com/chapter/10.1007/978-3-319-60846-4_36>`_
 
 Digital Design of Batch Cooling Crystallization Processes: Computational 
 Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in 

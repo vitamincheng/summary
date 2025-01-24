@@ -1,4 +1,4 @@
-References (Quantum Mechanics About NMR)
+Quantum Mechanics About NMR
 ========================================================================================================
 
 References

@@ -9,9 +9,9 @@ PCA forms the basis for MVDA by projection methods.
 Principal Component Analysis for Dimensionality Reduction which is way to 
 reduce the complexity of a model.
 
- Beyond the Numbers: Charting Chemical Reaction Space. *Org. Process Res. 
- Dev.* **2012**, *17* (1), 40–46. 
- `DOI: 10.1021/op300275p <https://doi.org/10.1021/op300275p>`_
+Beyond the Numbers: Charting Chemical Reaction Space. *Org. Process Res. 
+Dev.* **2012**, *17* (1), 40–46. 
+`DOI: 10.1021/op300275p <https://doi.org/10.1021/op300275p>`_
 
 
 Partial least squares (PLS)

@@ -17,7 +17,7 @@ Volume Distillation.
 
 Filtration
 -------------------------------------------------
-
+**Under-Construction**
 
 
 Mode of Reagent Addition: Control of Impurity Formation
@@ -50,22 +50,27 @@ Scalable Reactor Design for Pharmaceuticals and Fine Chemicals Production.
  | *Chemical rate constants are scale independent, whereas physical parameters 
    are not. This dichotomy is the primary cause of the failure to identify 
    scale-up problems.*
+
  | *Most commonly interact with chemistry to cause a fall in performance on 
    scale-up” to include processing time, heat transfer, power input, gas 
    desorption,  phase  separation, mixing times, and mass transfer rates 
    in two-phase systems.*
+
  | **Mixing time**
- | *macro-, meso, micromixing issues depending on the times scale of the 
+ | *macro, meso, micromixing issues depending on the times scale of the 
    reaction process*
+
  | *Mesomixing relates to the dispersal and disintegration of reagent 
    plumes; the localized excess concentration that can result can have a 
    great effect on conversion and product  distributions.*
+
  | *Whereas  macro-mixing is concerned with the blending time for the whole 
    solution and is  of  the order of seconds to minutes, meso- and micromixing 
    time scales are of the order of milliseconds.*
+ 
  | *The capability of the standard motor fitted of 7.5 kW*
- | *Hierarchy of potential scale-up obstacles*
- | *heat transfer time, mixing time, foam creation, and solid suspension*
+
+ | *Hierarchy of potential scale-up obstacles - heat transfer time, mixing time, foam creation, and solid suspension*
 
 Scalable Reactor Design for Pharmaceuticals and Fine Chemicals 
 Production. 2: Evaluation of Potential Scale-up Obstacles for 
