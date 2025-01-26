@@ -321,10 +321,6 @@ ICH M7
 
  | 7.3.1. Clinical development
  | An alternative approach to the strict use of an adjusted acceptable
-   bioconf_oiv2015_02014` <OpenFOAM® Selected Papers of the 11th
-   Workshop Page 509-520.>`_bioconf_oiv2015_02014` <OpenFOAM® Selected
-   Papers of the 11th Workshop Page 509-520.>`_bioconf_oiv2015_02014`
-   <OpenFOAM® Selected Papers of the 11th Workshop Page 509-520.>`_intake
    for any mutagenic impurity could be applied **for Phase 1
    clinical trials for dosing up to 14 days. For this approach, only
    impurities that are known mutagenic carcinogens (Class 1) and known
