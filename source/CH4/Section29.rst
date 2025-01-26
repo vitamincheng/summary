@@ -113,40 +113,42 @@ Computation of NMR spectrum (Censo)
  H          2.0704989822        1.0149272740        1.3232389689
  H          3.2857258834        0.8965524789        0.0550180571
 
-| Create new folder (02.GFN2) and copy crest_conformers.xyz to new folder. Rename crest_conformers.xyz to traj.xyz
+| Create new folder (02.GFN2) and copy crest_conformers.xyz to
+  new folder. Rename crest_conformers.xyz to traj.xyz
 | Executive molculus and use settings.ini
 | GFN2 under alpb CHCl3 solvent and charge (0) UHF (0)
 
 .. code-block:: bash
 
   iprog= 4  // The computational code to invoke. 1: Gaussian, 2: MOPAC, 3: ORCA, 4: xtb, 5: Open Babel
-  ngeom= 0  
-  itask= 0 
-  ibkout= 0 
-  distmax= 999 
-  ipause= 0 
-  iappend= 0 
-  freeze= 0  
+  ngeom= 0
+  itask= 0
+  ibkout= 0
+  distmax= 999
+  ipause= 0
+  iappend= 0
+  freeze= 0
  --- Below for xtb ---
- xtb_arg= "--gfn 2 --alpb CHCl3 --chrg 0 --uhf 0"  
+ xtb_arg= "--gfn 2 --alpb CHCl3 --chrg 0 --uhf 0"
 
 | When molculus is completed, isomers.xyz will be produced.
 | Run cregen.sh
 | When the cregen.sh is completed, cluster.xyz will be produced.
-| Create new folder and copy cluster.xyz to new folder. Rename cluster.xyz to traj.xyz
+| Create new folder and copy cluster.xyz to new folder.
+  Rename cluster.xyz to traj.xyz
 | Executive molculus and use settings.ini and template.inp
 | Content of settings.ini
 
 .. code-block:: bash
 
   iprog= 3  // The computational code to invoke. 1: Gaussian, 2: MOPAC, 3: ORCA, 4: xtb, 5: Open Babel
-  ngeom= 0  
-  itask= 0 
-  ibkout= 2 
-  distmax= 999 
-  ipause= 0  
-  iappend= 0  
-  freeze= 0  
+  ngeom= 0
+  itask= 0
+  ibkout= 2
+  distmax= 999
+  ipause= 0
+  iappend= 0
+  freeze= 0
  --- Below for ORCA ---
   orca_path= "/home/vitamin/orca_5_0_2_linux_x86-64_shared_openmpi411/orca"  // Command for invoking ORCA
   ibkgbw= 1  // The same as ibkout, but for .gbw file
@@ -157,13 +159,13 @@ Computation of NMR spectrum (Censo)
 
 .. code-block:: bash
 
- ! r2SCAN-3c opt miniprint PAL8 CPCM(chloroform) noautostart 
+ ! r2SCAN-3c opt miniprint PAL8 CPCM(chloroform) noautostart
  %maxcore 6000
- 
- * xyz 0 1 
+
+ * xyz 0 1
  [GEOMETRY]
  *
- 
+
 | When molculus is completed, isomers.xyz will be produced.
 | Executive cregen.sh
 | When the cregen.sh is completed, cluster.xyz will be produced.
@@ -182,24 +184,24 @@ Computation of NMR spectrum (Censo)
        ==============================================
        Version 2.11.2, Fr 17. Dec 12:10:44 CEST 2021
    Using the xTB program. Compatible with xTB version 6.4.0
- 
+
     Cite work conducted with this code as
- 
+
     P. Pracht, F. Bohle, S. Grimme, PCCP, 2020, 22, 7169-7192.
- 
+
     and  S. Grimme, JCTC, 2019, 15, 2847-2862.
- 
+
     with help from:
     C.Bannwarth, F.Bohle, S.Ehlert, S.Grimme,
     C. Plett, P.Pracht, S. Spicher
- 
+
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
- 
+
   Command line input:
   > crest isomers.xyz --cregen isomers.xyz --rthr 0.25 --bthr 0.02 --ethr 0.10 --ewin 4.0
- 
+
    --cregen : CREGEN standalone usage. Sorting file <isomers.xyz>
    --rthr 0.25
    --bthr 0.02
@@ -234,21 +236,22 @@ Computation of NMR spectrum (Censo)
  population of lowest in %             :   76.807
   number of unique conformers for further calc            2
   list of relative energies saved as "crest.energies"
- 
+
   -----------------
   Wall Time Summary
   -----------------
                CREGEN wall time :         0h : 0m : 0s
  --------------------
  Overall wall time  : 0h : 0m : 0s
- 
+
   CREST terminated normally.
 
-| only two conformers in cluster.xyz 
-| Copy the folder 01.Crest to new folder 04.Censo and copy to cluster.xyz to new folder and rename to crest_conformers.xyz
+| only two conformers in cluster.xyz
+| Copy the folder 01.Crest to new folder 04.Censo and copy to
+  cluster.xyz to new folder and rename to crest_conformers.xyz
 | Run censo -inp crest_conformers.xyz | tee crest_conformers.out
-| After 3 minutes the censo is completed. 
-| Run anmr -lw 1 -mf 500 -mss 12 and use .anmrrc setting 
+| After 3 minutes the censo is completed.
+| Run anmr -lw 1 -mf 500 -mss 12 and use .anmrrc setting
 | Run ./nmmrplot.py -i anmr.dat to afford nmr spectrum
 
 | Content of .anmrrc
@@ -256,9 +259,9 @@ Computation of NMR spectrum (Censo)
 .. code-block:: bash
 
  7 8 XH acid atoms
- ENSO qm= ORCA mf= 500.0 lw= 1.0  J= on S= on T= 298.15 
+ ENSO qm= ORCA mf= 500.0 lw= 1.0  J= on S= on T= 298.15
  TMS[chcl3] pbe0-d4[SMD]/def2-TZVP//r2scan-3c[SMD]/def2-mTZVPP
-   1  31.79     0.0     1 
+   1  31.79     0.0     1
    6  188.57    0.0     0
 
 

@@ -3,7 +3,9 @@ Moisture of air is critical factor in chemical experiment ??
 
 **Precondition:**
 
- | A 2 L round-bottom flask was charged with the specified solute and solvent, leaving approximately 1 L of air remaining in the flask. 
+ | A 2 L round-bottom flask was charged with the specified solute
+   and solvent, leaving approximately 1 L of air remaining
+   in the flask.
  | solvent KF = 0.02 %
  | solid KF = 1.0 %
  | solid MW = 100 (g/mol)
@@ -18,7 +20,8 @@ Example 1 : dilution liquid (50V solvent)
  |  maximum pressure of water vapor at 20\ :sup:`o`\ C = 17.5 torr
  |  17.5 (partial pressure) / 760  (total pressure) = 0.023 (ratio)
  |  1L x 0.023 = 0.023 L volume of water vapor
- |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole = 16.9 mg H\ :sub:`2`\ O
+ |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole =
+    16.9 mg H\ :sub:`2`\ O
 
  | *1L Solvent*
  |  1L = 1000 mL
@@ -55,7 +58,8 @@ Example 2 : Concentrated liquid (10V solvent)
  |  maximum pressure of water vapor at 20\ :sup:`o`\ C = 17.5 torr
  |  17.5 (partial pressure) / 760  (total pressure) = 0.023 (ratio)
  |  1L x 0.023 = 0.023 L volume of water vapor
- |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole = 16.9 mg H\ :sub:`2`\ O
+ |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole =
+    16.9 mg H\ :sub:`2`\ O
 
  | *1L Solvent*
  |  1L = 1000 mL
@@ -94,7 +98,8 @@ Example 3 : General Condition (10V solvent)
  |  maximum pressure of water vapor at 20\ :sup:`o`\ C = 17.5 torr
  |  17.5 (partial pressure) / 760  (total pressure) = 0.023 (ratio)
  |  1L x 0.023 = 0.023 L volume of water vapor
- |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole = 16.9 mg H\ :sub:`2`\ O
+ |  0.023 L / 24.5  (L/mole)  =  0.000938776 mole = 0.939 mmole
+    = 16.9 mg H\ :sub:`2`\ O
 
  | *1L Solvent*
  |  1L = 1000 mL
@@ -131,8 +136,13 @@ Example 3 : General Condition (10V solvent)
 Conclusion
 ------------------------------------------------------------------
 
-
- | Theoretical calculations indicate that while maintaining 100% relative humidity in the flask's headspace, the total system moisture content would range from 1.4% to 4.0% (w/w). This moisture is predominantly attributed to residual water in the solvents and solids (95-98%), suggesting that controlling solvent and solid water content is paramount, rather than focusing on ambient humidity.
+ | Theoretical calculations indicate that while maintaining 100%
+   relative humidity in the flask's headspace, the total system
+   moisture content would range from 1.4% to 4.0% (w/w). This
+   moisture is predominantly attributed to residual water in
+   the solvents and solids (95-98%), suggesting that controlling
+   solvent and solid water content is paramount, rather than
+   focusing on ambient humidity.
 
 
 

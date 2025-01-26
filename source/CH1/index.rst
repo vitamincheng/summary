@@ -8,7 +8,7 @@ Pharmaceutical Industry
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents 1. Pharmaceutical Industry 
+   :caption: Table of Contents 1. Pharmaceutical Industry
 
    Section1
    Section2

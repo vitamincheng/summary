@@ -8,7 +8,7 @@ Process Chemistry
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents. 2. Process Chemistry 
+   :caption: Table of Contents. 2. Process Chemistry
 
    Section4
    Section10
@@ -21,5 +21,6 @@ Process Chemistry
    Section20
    Section23
    Section24
+   Section36
    Section25
    Section34
