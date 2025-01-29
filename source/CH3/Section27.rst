@@ -12,8 +12,10 @@ Dropwise addition is necessary for chemical reactions ??
 .. image:: examples.jpg
   :width: 600
 
-| **Blending time** is established based on a practical, realistically
-  achievable value such as 99% uniformity.
+Blending time
+    is established based on a practical, realistically
+    achievable value such as 99% uniformity.
+
 | Blending of miscible liquids happens slowly by **molecular diffusion**
   and **natural convection**. Thus, agitation systems
   can apply forced convection to obtain homogeneity more rapidly
@@ -29,8 +31,9 @@ Dropwise addition is necessary for chemical reactions ??
 | Mixing course: Useful clues for the mixing beginners—Better Mix,
   Better Process [4].
 
-| **Kolmogorov microscale** are the smallest scales in turbulent
-  flow [6, page 20].
+Kolmogorov microscale
+    are the smallest scales in turbulent flow [6, page 20].
+
 | Diffusion is generally regarded as a slow process. Within eddies of
   30~100um diameter, homogeneity is achieved in about 1s for low-viscosity
   fluids [5].

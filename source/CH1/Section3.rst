@@ -3,40 +3,44 @@ Quality by Design (QbD)
 
 Quality Risk Assessment (QRA)
 ----------------------------------------------
-QRA is an assessment of the risk of variation of material attributes
-(starting materials, etc.) and processes parameters to the CQAs of
-the associated API. It is a quantitative model often based on a failure
+QRA
+    An assessment of the risk of variation of material
+    attributes (starting materials, etc.) and processes
+    parameters to the CQAs of the associated API.
+
+It is a quantitative model often based on a failure
 mode, effects and criticality analysis (FMECA), which is used to
 facilitate the identification of those factors affecting the quality
 of the drug substance. Once the risks are identified, they can then
 provide clearer direction and attention for defining the design space
 and any subsequent control strategies that will be needed.
 
-QRA is an assessment of the risk of variation of material attributes
-(starting materials, etc.) and processes parameters to the CQAs of the
-associated API.
-
 
 The Quality Target Product Profile (QTPP)
 -----------------------------------------------
-TPP - labeled use, safety and efficacy.
+TPP
+    Labeled use, safety and efficacy.
 
-QTPP - quality characteristics to ensure safety and efficacy as promised
-in the label.
+QTPP
+    Quality characteristics to ensure safety and efficacy as promised
+    in the label.
 
 
 Critical Quality Attributes (CQAs)
 ------------------------------------------------
-CQA - A physical, chemical, biological, or microbiological property or
-characteristic that should be within an appropriate limit, range, or
-distribution to ensure the desired product quality (ICH Q8)
+CQA
+    A physical, chemical, biological, or microbiological property or
+    characteristic that should be within an appropriate limit, range, or
+    distribution to ensure the desired product quality (ICH Q8)
 
 
 Critical Material Attributes (CMAs)
 --------------------------------------------------
-CMA - A physical, chemical, biological or microbiological property or
-characteristic of an input material that should be within an appropriate
-limit, range, or distribution to ensure the desired quality of output material.
+CMA
+    A physical, chemical, biological or microbiological property or
+    characteristic of an input material that should be within an appropriate
+    limit, range, or distribution to ensure the desired quality of
+    output material.
 
 \*CMA is not defined in ICH guidance
 
@@ -98,9 +102,10 @@ Processes. *Org. Process Res. Dev.* **2020**, *24*, (11), 2762–2771.
 Critical Process Parameters (CPPs)
 -----------------------------------------------------------
 
-CPP - A process parameter whose variability has an impact on a CQA and
-therefore should be monitored or controlled to ensure the process produces
-the desired quality. (ICH Q8)
+CPP
+    A process parameter whose variability has an impact on a CQA and
+    therefore should be monitored or controlled to ensure the process produces
+    the desired quality. (ICH Q8)
 
 By definition, any process parameter that impacts a CQA is a CPP; that is,
 it is a significant risk to the API quality. Usually, all process parameters
@@ -149,9 +154,10 @@ and manufacture* – Wiley (2017) page 177.
 
 Design Space (DS)
 --------------------------------------------------------
-DS - The multidimensional combination and interaction of input variables
-(e.g. material attributes) and process parameters that have been demonstrated
-to provide assurance of quality. ICH Q8 (R2)
+DS
+    The multidimensional combination and interaction of input variables
+    (e.g. material attributes) and process parameters that have been
+    demonstrated to provide assurance of quality. ICH Q8 (R2)
 
  1. Case Studies in the Applicability of Drug Substance Design Spaces Developed
     on the Laboratory Scale to Commercial Manufacturing. *Org. Process Res.
