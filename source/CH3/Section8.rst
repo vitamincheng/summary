@@ -4,7 +4,8 @@ Mixing in Stirred Vessels
 Reference
 ---------------------------------------------------------
 
-Liquid-liquid mixing in stirred vessels: A review.
+Liquid-liquid Mixing in Stirred Vessels: A Review *Chemical Engineering
+Communications* **200** (5), 595-627, (2013).
 `DOI: 10.1080/00986445.2012.717313 <https://dx.doi.org/10.1080/00986445.2012.717313>`_
 
  | *Blending of miscible liquids happens slowly by molecular diffusion and
@@ -41,26 +42,32 @@ Liquid-liquid mixing in stirred vessels: A review.
    on constant blend time demand that the agitation speed in the plant
    vessel be similar to that of the laboratory vessels.*
 
-Liquid-Phase Mixing in Stirred Vessels:  Turbulent Flow Regime.
+Liquid-Phase Mixing in Stirred Vessels: Turbulent Flow Regime.
+*Ind. Eng. Chem. Res.* **2003**, *42* (12), 2661-2698.
 `DOI: 10.1021/ie0206397 <https://doi.org/10.1021/ie0206397>`_
 
-Reviews in Chemical Engineering 2015, 119-147. Solid-liquid mixing
-analysis in stirred vessels.
+Solid-liquid mixing analysis in stirred vessels.
+*Reviews in Chemical Engineering* **2015**, *31* (2), 119-147.
 `DOI: 10.1515/revce-2014-0028 <https://doi.org/10.1515/revce-2014-0028>`_
 
 Scale-Up of Solid-Liquid Mixing Based on Constant Power/Volume and Equal
 Blend Time Using VisiMix Simulation.
+*MATEC Web of Conferences* **2018**, *187*, 04002.
 `DOI: 10.1051/matecconf/201818704002 <https://doi.org/10.1051/matecconf/201818704002>`_
 
 CFD simulation of local and global mixing time in an agitated tank.
+*Chinese J. Mechanical Engineering* **2017**, *30*, 118-126.
 `Link1 <https://link.springer.com/article/10.3901/CJME.2016.1107.129>`_
 
 Evaluation of Just-Suspended Speed Correlations in Lab-Scale Tanks with
 Varying Baffle Configurations.
+*Org. Process. Res. Dev.* **2018**, *22* (11), 1481-1488.
 `DOI: 10.1021/acs.oprd.8b00244 <https://doi.org/10.1021/acs.oprd.8b00244>`_
 
 Application of Modeling to Scale-up Dissolution in Pharmaceutical
-Manufacturing. `DOI: 10.1208%2Fs12249-010-9533-6
+Manufacturing.
+*AAPS PharmSciTech* **2010**, *11*, 1541-1548.
+`DOI: 10.1208%2Fs12249-010-9533-6
 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
 
    | Utilizing this simple scale-up criterion of similar P/V across different scales, results obtained
@@ -121,15 +128,13 @@ Solid–Liquid Suspension in Pilot Plants: Using Engineering Tools to
 Understand At-Scale Capabilities.
 `DOI: 10.1021/acs.oprd.5b00053 <https://dx.doi.org/10.1021/acs.oprd.5b00053>`_
 
-
 Am Ende, D. J., am Ende M. T.; *Chemical Engineering in the Pharmaceutical
 Industry: drug product design, development and modeling* – Wiley (2019).
 
- | *three systems for improving performance of semi-bach controlled
-   addition reaction (addition tube, dispersion ring and spray nozzle)*
-
- | *Illustration of transport in solid liquid system showing the look
-   at a suspendend sphere showing the fluid velocity profiles around it*
+ 1. *three systems for improving performance of semi-bach controlled
+    addition reaction (addition tube, dispersion ring and spray nozzle)*
+ 2. *Illustration of transport in solid liquid system showing the look
+    at a suspendend sphere showing the fluid velocity profiles around it*
 
 Sumitomo Heavy Industries Process Equipment
 Mixing course: Useful clues for the mixing beginners—Better Mix, Better Process

@@ -6,6 +6,7 @@ Reference
 ---------------------------------------------------------
 A Science and Risk Based Proposal for Understanding Scale and Equipment
 Dependencies of Small Molecule Drug Substance Manufacturing Processes.
+*J. Pharm. Innov.* **2010**, *5*, 72-78.
 `DOI: 10.1007/s12247-010-9083-1 <https://doi.org/10.1007/s12247-010-9083-1>`_
 
  | For example, to preserve constant reaction selectivity on scale-up
@@ -24,11 +25,13 @@ Dependencies of Small Molecule Drug Substance Manufacturing Processes.
 
 The Role of Mixing in Fast, Competitive Chemical Reactions.
 `Link <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_
+`Local Link <https://github.com/vitamincheng/summary/tree/main/source/CH3/AIChE_STUDENT_CONF_2019.pdf>`_
 
  | In industrial reactors mesomixing timescale controls scale-up on
    constant Damkohler number.
 
-The role of meso-mixing in anti-solvent crystallization processes.
+The role of meso-mixing in anti-solvent crystallization processes. *Chemical
+Engineering Science* **2011**, *66* (12), 2523-2534.
 `DOI: 10.1016/j.ces.2011.02.042 <https://doi.org/10.1016/j.ces.2011.02.042>`_
 
  | This paper establishes links between the available turbulent mixing capability
@@ -39,9 +42,11 @@ The role of meso-mixing in anti-solvent crystallization processes.
    subsequent sporadic nucleation of the solute.
 
 Turbulent micromixing in chemical reactors — a review.
+*Chemical Engineering J. and the Biochemical Engineering J.* **1995**, *58* (2), 183-195.
 `DOI: 10.1016/0923-0467(95)02982-6 <https://doi.org/10.1016/0923-0467(95)02982-6>`_
 
-Mixing and the Selectivity of Chemical Reactions.
+Mixing and the Selectivity of Chemical Reactions. *Org. Process Res. Dev.*
+**2003**, *7* (4), 471-508.
 `DOI: 10.1021/op020074q <https://doi.org/10.1021/op020074q>`_
 
  | This review offers an introduction to understanding how mixing influences

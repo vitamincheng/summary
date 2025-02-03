@@ -36,15 +36,17 @@ with Immersed Helical Coil. `Link <https://link.springer.com/chapter/10.1007/978
 Digital Design of Batch Cooling Crystallization Processes: Computational
 Fluid Dynamics Methodology for Modeling Free-Surface Hydrodynamics in
 Agitated Crystallizers.
+*Org. Process Res. Dev.* **2020**, *24* (11), 2565-2582.
 `DOI: 10.1021/acs.oprd.0c00240 <https://doi.org/10.1021/acs.oprd.0c00240>`_
 
-International Journal of Chemical Engineering 2012, (1687-806X).
 CFD Modeling of Solid Suspension in a Stirred Tank: Effect of Drag Models
 and Turbulent Dispersion on Cloud Height.
+*Int. J. Chem. Engineering* **2012**, 1687-806X.
 `DOI: 10.1155/2012/956975 <https://doi.org/10.1155/2012/956975>`_
 
 Application of Modeling to Scale-up Dissolution in Pharmaceutical
 Manufacturing.
+*AAPS PharmSciTech* **2010**, 11, 1541-1548.
 `DOI: 10.1208%2Fs12249-010-9533-6 <https://dx.doi.org/10.1208%2Fs12249-010-9533-6>`_
 
 Computer Vision for Kinetic Analysis of Lab- and Process-Scale Mixing Phenomena

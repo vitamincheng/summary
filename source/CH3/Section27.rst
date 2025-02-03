@@ -1,5 +1,8 @@
-Dropwise addition is necessary for chemical reactions ??
+Dropwise Addition is Necessary for Chemical Experiments ?
 ==============================================================
+
+(The question) How to convert most of the diol into monoacetyl in acetylation reaction ? 
+------------------------------------------------------------------------------------------------
 
 .. image:: diol.jpg
   :width: 600
@@ -13,7 +16,7 @@ Dropwise addition is necessary for chemical reactions ??
   :width: 600
 
 Blending time
-    is established based on a practical, realistically
+    Based on a practical, realistically
     achievable value such as 99% uniformity.
 
 | Blending of miscible liquids happens slowly by **molecular diffusion**
@@ -32,7 +35,7 @@ Blending time
   Better Process [4].
 
 Kolmogorov microscale
-    are the smallest scales in turbulent flow [6, page 20].
+    The smallest scales in turbulent flow [6, page 20].
 
 | Diffusion is generally regarded as a slow process. Within eddies of
   30~100um diameter, homogeneity is achieved in about 1s for low-viscosity
@@ -84,18 +87,19 @@ Kolmogorov microscale
 | Dip pipe or subsurfaced Feed, Liqiud Reaction, Solid-Liquid Reaction
   and Reaction in Liquid Liquid Dispersion
 
-| **Conclusion:**
-| To dissolve the reagents in a solvent and quickly add them to the area
-  near the impeller is first choice.
-| Acetyl anhydride is preferred over acetic chloride because the relationship
-  between reaction time and blend time.
+Conclusion
+----------------------------
+
+1. To dissolve the reagents in a solvent and quickly add them to the area near the impeller is first choice.
+2. Acetyl anhydride is preferred over acetic chloride because the relationship
+   between reaction time and blend time.
 
 References
 ----------------------------------------------
 1. Mixing and the Selectivity of Chemical Reactions *Org. Process Res. Dev.*
    **2003**, *7* (4), 471-508.
    `DOI: 10.1021/op020074q <https://doi.org/10.1021/op020074q>`_
-2. LIQUID-LIQUID MIXING IN STIRRED VESSELS: A REVIEW *Chemical Engineering
+2. Liquid-liquid Mixing in Stirred Vessels: A Review *Chemical Engineering
    Communications* **200** (5), 595-627, (2013).
    `DOI: 10.1080/00986445.2012.717313 <https://doi.org/10.1080/00986445.2012.717313>`_
 3. David J. am Ende and Mary Tanya am Ende *Chemical engineering in the
@@ -103,7 +107,7 @@ References
    2nd Ed., Wiley (2019).
 4. `https://shi-pe.shi.co.jp <https://www.shi-pe.shi.co.jp/english/technology/index.html>`_
 5. `Chapter 6 mixing <https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7qKKpY_9AhUSBt4KHQbVDGoQFnoECA0QAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPrem_Baboo%2Fpost%2FWhat_is_the_required_power_of_submerged_mixer_in_equalization_tank_before_ABR%2Fattachment%2F59d626b379197b8077984f88%2FAS%253A322848827084801%25401453984566680%2Fdownload%2F7-110415153545.pdf&usg=AOvVaw1yAAel74uHZwjk-iLMUVYa>`_
-6. `AIChE STUDENT CONF 2019 <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_ `Link 2 <https://github.com/vitamincheng/summary/tree/main/source/CH3/AIChE_STUDENT_CONF_2019.pdf>`_
+6. `AIChE STUDENT CONF 2019 <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_ `Local Link <https://github.com/vitamincheng/summary/tree/main/source/CH3/AIChE_STUDENT_CONF_2019.pdf>`_
 7. A Science and Risk Based Proposal for Understanding Scale and Equipment
    Dependencies of Small Molecule Drug Substance Manufacturing Processes
    *J. Pharm. Innov.* **2010**, 5, 72-78.

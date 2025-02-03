@@ -2,11 +2,13 @@ Ethyl Acetate
 ============================================================
 
 2D Structure of Ethyl Acetate
+--------------------------------------
 
 .. image:: Ethyl_acetate.png
   :width: 200
 
 Computation of NMR spectrum (Censo)
+---------------------------------------
 
 .. image:: Ethyl_acetate_nmr.png
   :width: 600
