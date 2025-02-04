@@ -93,15 +93,18 @@ Volume 1A - Fluid Flow: Fundamentals and Applications*
 Chemical Processing 2009 Minimize Blending Time
 `Link2 <https://www.chemicalprocessing.com/articles/2009/120/>`_
 
- | *when appropriately positioned quickly blend low-viscosity batches,
-   usually in less than a minute or two.*
+ 1. *When appropriately positioned quickly blend low-viscosity batches,
+    the blending time is usually in less than a minute or two.*
+ 2. *Feed Location - Added liquid just above the tip of down-pumping
+    axial-flow impeller generally provide best results.*
 
 Chemical Processing 2007 Make your portable mixer work for you
 `Link3 <https://www.chemicalprocessing.com/articles/2007/040/>`_
 
- | *The difficult part of understanding mixing: a strong
-   vortex isn’t necessarily a good thing.*
-
+ | *A common misunderstanding about mixing is that vigorous
+   motion on the surface isn't necessarily a sign of good
+   mixing. Often the first sign of poor mixing is a strong
+   vortex.*
 
 
 Industrial Fluid Mixer Position and RPM Optimized for Tank Mixers
@@ -131,7 +134,7 @@ Understand At-Scale Capabilities.
 Am Ende, D. J., am Ende M. T.; *Chemical Engineering in the Pharmaceutical
 Industry: drug product design, development and modeling* – Wiley (2019).
 
- 1. *three systems for improving performance of semi-bach controlled
+ 1. *Three systems for improving performance of semi-bach controlled
     addition reaction (addition tube, dispersion ring and spray nozzle)*
  2. *Illustration of transport in solid liquid system showing the look
     at a suspendend sphere showing the fluid velocity profiles around it*
@@ -146,6 +149,7 @@ Mixing course: Useful clues for the mixing beginners—Better Mix, Better Proces
 
 The Role of Mixing in Fast, Competitive Chemical Reactions
 `Link9 <https://mixing.net/Featured/AIChE%20STUDENT%20CONF%202019.pdf>`_
+`Local Link <https://github.com/vitamincheng/summary/tree/main/source/CH3/AIChE_STUDENT_CONF_2019.pdf>`_
 
  | *In industrial reactors mesomixing timescale controls scale-up on
    constant Damkohler number.*

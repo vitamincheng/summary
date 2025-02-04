@@ -23,8 +23,12 @@ MetaRF: attention‑based random forest for reaction yield prediction with a few
  | `MetaRF github <https://github.com/Nikki0526/MetaRF>`_
  | `Workflow of MetaRF turorial <https://github.com/Nikki0526/MetaRF/blob/main/Workflow_of_MetaRF_Tutorial.ipynb>`_
 
-Textbooks (Computational Fluid Dynamics)
+Textbooks
 ---------------------------------------------------------
+
+*About Computational Fluid Dynamics*
+
+
 1. Steven L. Brunton, *Data-Driven Science and Engineering -
    Machine Learning, Dynamical Systems, and Control* - Cambridge
    University Press (2022).

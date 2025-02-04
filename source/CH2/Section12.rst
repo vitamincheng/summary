@@ -54,6 +54,13 @@ Subsequent Coupling Reactions. *Org. Process Res. Dev.* **2021**, *25* (3),
 427–433.  `DOI: 10.1021/acs.oprd.0c00399 <https://doi.org/10.1021/acs.oprd.0c00399>`_
 
 
+Continuous Flow Oxidation of Alcohols Using TEMPO/NaOCl for the Selective
+and Scalable Synthesis of Aldehydes.
+*Org. Process Res. Dev.* **2024**, *28* (5), 1587–1596.
+`DOI: 10.1021/acs.oprd.3c00237 <https://doi.org/10.1021/acs.oprd.3c00237>`_
+
+
+
 Special issue and review
 ------------------------------------------
 Special Issue: Flow Chemistry Enabling Efficient Synthesis. *Org. Process

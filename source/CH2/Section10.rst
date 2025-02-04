@@ -73,6 +73,13 @@ Antibody–Drug Conjugate Synthesis Using Continuous Flow Microreactor Technolog
  Continuous flow chemistry can be employed to develop reliable and
  robust processes for producing ADCs.
 
+
+Strategies for UF/DF-Based Impurity Removal in the Post-conjugation
+Purification of Antibody–Drug Conjugates
+*Org. Process Res. Dev.* **2023**, *27* (7), 1258–1268.
+`DOI: 10.1021/acs.oprd.3c00137 <https://doi.org/10.1021/acs.oprd.3c00137>`_
+
+
 “Build Your Own” ADC Mimics: Identification of Nontoxic Linker/Payload Mimics
 for HIC-Based DAR Determination, High-Throughput Optimization, and Continuous
 Flow Conjugation.
