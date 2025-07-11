@@ -47,7 +47,7 @@ Vitamin D3 - A Structural Elucidation Example
 Vitamin D3 - A Structural Elucidation Example Using the Agilent 400-MR
 Jarrett J. Farias Agilent Technology, Inc. 
 `External Link <https://www.agilent.com/cs/library/whitepaper/public/5990-9600EN.pdf>`_
-`Internal Link <Vitamin_D3_5990-9600EN.pdf>`_
+`Internal Link <https://github.com/vitamincheng/summary/tree/main/source/CH2/Vitamin_D3_5990-9600EN.pdf>`_
 
 Textbooks
 ------------------------------------------------
